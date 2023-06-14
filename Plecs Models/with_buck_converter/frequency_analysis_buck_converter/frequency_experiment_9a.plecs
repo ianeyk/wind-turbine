@@ -51,7 +51,7 @@ Plecs {
   ScriptsDialogGeometry "[828 247 1005 709]"
   ScriptsDialogSplitterPos "107"
   Schematic {
-    Location      [0, 26; 1280, 640]
+    Location      [0, 26; 1280, 639]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -2211,14 +2211,8 @@ Plecs {
       SrcTerminal   1
       Points        [720, 480]
       Branch {
-        Points        [835, 480]
-        Branch {
-          Points        [845, 480]
-        }
-        Branch {
-          DstComponent  "Perturbation"
-          DstTerminal   2
-        }
+        DstComponent  "Perturbation"
+        DstTerminal   2
       }
       Branch {
         Points        [720, 455]
@@ -2291,7 +2285,7 @@ Plecs {
     FrequencyRange "[100 25e3]"
     Amplitude     "1e-3"
     Perturbation  "Perturbation"
-    Response      "Response"
+    Response      "Response1"
   }
   Script {
     Name          "Lab2 Parameter Sweep"
