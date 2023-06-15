@@ -40,7 +40,7 @@ def axes_labels(x_label: str, x_unit: str, y_label: str, y_unit: str, title = No
 
 # helper function for simplifying column names
 def strip_labels(label: str):
-    if label == "Time":
+    if label == "Time" or label == "Time / s":
         return "t"
     idx = label.find(":")
     if idx < 0:
