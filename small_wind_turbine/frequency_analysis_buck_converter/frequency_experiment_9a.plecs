@@ -51,7 +51,7 @@ Plecs {
   Schematic {
     Location      [0, 23; 1280, 642]
     ZoomFactor    1
-    SliderPosition [608, 1]
+    SliderPosition [-1, 1]
     ShowBrowser   off
     BrowserWidth  100
     Component {
