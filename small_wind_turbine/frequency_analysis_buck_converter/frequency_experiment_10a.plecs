@@ -2,8 +2,8 @@ Plecs {
   Name          "frequency_experiment_10a"
   Version       "4.7"
   CircuitModel  "ContStateSpace"
-  StartTime     "0.0"
-  TimeSpan      "10e-3"
+  StartTime     "0"
+  TimeSpan      "100e-3"
   Timeout       ""
   Solver        "auto"
   MaxStep       "1e-3"
@@ -49,9 +49,9 @@ Plecs {
   ScriptsDialogGeometry "[828 247 1005 709]"
   ScriptsDialogSplitterPos "107"
   Schematic {
-    Location      [7, 31; 1278, 639]
+    Location      [0, 23; 1280, 642]
     ZoomFactor    1
-    SliderPosition [240, -1]
+    SliderPosition [-1, 272]
     ShowBrowser   off
     BrowserWidth  100
     Component {
@@ -285,7 +285,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "259"
+        Value         "255"
         Show          on
       }
     }
@@ -337,7 +337,7 @@ Plecs {
       LabelPosition east
       Parameter {
         Variable      "R"
-        Value         "2.26e3"
+        Value         "5.1e3"
         Show          on
       }
     }
@@ -783,7 +783,7 @@ Plecs {
       LabelPosition east
       Parameter {
         Variable      "C"
-        Value         "1.1e-9"
+        Value         "2.2e-9"
         Show          on
       }
       Parameter {
@@ -3062,7 +3062,7 @@ Plecs {
       Direction     up
       Flipped       off
       LabelPosition south
-      Location      [0, 23; 1280, 660]
+      Location      [0, 26; 1280, 663]
       State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAbwBvA"
 "G0AQQByAGUAYQAAAAAA/////wAAAEwA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
 "///wAAAJcA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAACXAP///wAAAAMAAAAAAAAAAPw"
@@ -4319,17 +4319,12 @@ Plecs {
       BrushColor   10642217
       BrushAlpha   0
     } 
-    Annotation {
-      Name          "<html><body>\n<p><span style=\" font-size:30px;\">?</span"
-"></p></body></html>"
-      Position      [60, 395]
-    } 
   }
   Analysis {
     Type          MultitoneAnalysis
     Name          "Multitone Analysis"
     ShowLegend    "1"
-    StartTime     "0"
+    StartTime     "50e-3"
     InitSimulationPeriod "10e-3"
     FrequencyRange "[100 25e3]"
     Amplitude     "1e-2"
