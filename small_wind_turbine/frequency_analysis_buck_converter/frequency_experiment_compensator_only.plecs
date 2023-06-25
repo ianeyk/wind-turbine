@@ -50,7 +50,7 @@ Plecs {
   ScriptsDialogGeometry "[828 247 1005 709]"
   ScriptsDialogSplitterPos "107"
   Schematic {
-    Location      [0, 26; 1280, 638]
+    Location      [0, 26; 1280, 637]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -188,7 +188,7 @@ Plecs {
       Type          Voltmeter
       Name          "Vm2"
       Show          on
-      Position      [745, 330]
+      Position      [765, 515]
       Direction     up
       Flipped       off
       LabelPosition west
@@ -197,7 +197,7 @@ Plecs {
       Type          Ground
       Name          "Ground2"
       Show          off
-      Position      [745, 385]
+      Position      [765, 570]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -206,7 +206,7 @@ Plecs {
       Type          SmallSignalResponse
       Name          "Response"
       Show          on
-      Position      [800, 330]
+      Position      [820, 515]
       Direction     right
       Flipped       off
       LabelPosition south
@@ -269,7 +269,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "2.26e3"
+        Value         "5.1e3"
         Show          on
       }
     }
@@ -283,8 +283,22 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "259"
+        Value         "255"
         Show          on
+      }
+    }
+    Component {
+      Type          Resistor
+      Name          "R1"
+      Show          on
+      Position      [675, 290]
+      Direction     right
+      Flipped       off
+      LabelPosition south
+      Parameter {
+        Variable      "R"
+        Value         "1"
+        Show          off
       }
     }
     Connection {
@@ -318,9 +332,8 @@ Plecs {
           DstTerminal   3
         }
         Branch {
-          Points        [745, 290]
-          DstComponent  "Vm2"
-          DstTerminal   1
+          DstComponent  "R1"
+          DstTerminal   2
         }
       }
     }
@@ -403,6 +416,14 @@ Plecs {
           DstTerminal   2
         }
       }
+    }
+    Connection {
+      Type          Wire
+      SrcComponent  "Vm2"
+      SrcTerminal   1
+      Points        [765, 290]
+      DstComponent  "R1"
+      DstTerminal   1
     }
     RectangleAnnotation {
       Position     [475, 255]
