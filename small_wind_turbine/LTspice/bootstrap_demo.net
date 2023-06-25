@@ -1,0 +1,14 @@
+* C:\dev\git\wind-turbine\small_wind_turbine\LTspice\bootstrap_demo.asc
+D1 N001 N002 D
+C1 N002 N003 10µ
+V1 N001 P001 12
+XU2 P001 gnd
+V2 N003 N004 PULSE(0 50 0 1u 1u 5u 20u 1000)
+XU1 N004 gnd
+I1 N002 N003 0.1
+.model D D
+.lib C:\Users\ieykamp\OneDrive - Olin College of Engineering\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 0 500u 0
+.include engr2420.sub
+.backanno
+.end
