@@ -1510,7 +1510,7 @@ Plecs {
       Frame         [-10, -10; 10, 10]
       Parameter {
         Variable      "Value"
-        Value         "0"
+        Value         "1.25"
         Show          on
       }
       Parameter {
@@ -1590,7 +1590,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "Hi"
-        Value         "1.25"
+        Value         "0.625"
         Show          on
       }
       Parameter {
