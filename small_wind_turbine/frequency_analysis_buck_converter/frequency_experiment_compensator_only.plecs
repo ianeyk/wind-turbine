@@ -1,5 +1,5 @@
 Plecs {
-  Name          "frequency_experiment_compensator_only"
+  Name          "frequency_experiment_old_values_compensator_only"
   Version       "4.7"
   CircuitModel  "ContStateSpace"
   StartTime     "0.0"
@@ -50,7 +50,7 @@ Plecs {
   ScriptsDialogGeometry "[828 247 1005 709]"
   ScriptsDialogSplitterPos "107"
   Schematic {
-    Location      [0, 26; 1280, 636]
+    Location      [0, 26; 1280, 635]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -59,7 +59,7 @@ Plecs {
       Type          VoltageSource
       Name          "V"
       Show          on
-      Position      [190, 435]
+      Position      [215, 350]
       Direction     down
       Flipped       on
       LabelPosition east
@@ -78,7 +78,7 @@ Plecs {
       Type          Ground
       Name          "Ground6"
       Show          off
-      Position      [190, 545]
+      Position      [215, 450]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -128,7 +128,7 @@ Plecs {
       Type          DCVoltageSource
       Name          "V_dc"
       Show          on
-      Position      [405, 220]
+      Position      [405, 240]
       Direction     down
       Flipped       on
       LabelPosition east
@@ -142,7 +142,7 @@ Plecs {
       Type          Ground
       Name          "Ground"
       Show          off
-      Position      [405, 265]
+      Position      [405, 275]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -160,7 +160,7 @@ Plecs {
       Type          DCVoltageSource
       Name          "V_dc1"
       Show          on
-      Position      [190, 495]
+      Position      [215, 405]
       Direction     down
       Flipped       on
       LabelPosition east
@@ -174,7 +174,7 @@ Plecs {
       Type          SmallSignalPerturbation
       Name          "Perturbation"
       Show          on
-      Position      [115, 435]
+      Position      [140, 350]
       Direction     right
       Flipped       off
       LabelPosition south
@@ -188,7 +188,7 @@ Plecs {
       Type          Voltmeter
       Name          "Vm2"
       Show          on
-      Position      [765, 515]
+      Position      [700, 330]
       Direction     up
       Flipped       off
       LabelPosition west
@@ -197,7 +197,7 @@ Plecs {
       Type          Ground
       Name          "Ground2"
       Show          off
-      Position      [765, 570]
+      Position      [700, 385]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -206,7 +206,7 @@ Plecs {
       Type          SmallSignalResponse
       Name          "Response"
       Show          on
-      Position      [820, 515]
+      Position      [755, 330]
       Direction     right
       Flipped       off
       LabelPosition south
@@ -225,7 +225,7 @@ Plecs {
       Type          Capacitor
       Name          "Cc3"
       Show          on
-      Position      [460, 425]
+      Position      [460, 390]
       Direction     right
       Flipped       on
       LabelPosition south
@@ -244,7 +244,7 @@ Plecs {
       Type          Capacitor
       Name          "Cc4"
       Show          on
-      Position      [490, 470]
+      Position      [490, 435]
       Direction     right
       Flipped       on
       LabelPosition south
@@ -263,7 +263,7 @@ Plecs {
       Type          Resistor
       Name          "Rf2"
       Show          on
-      Position      [235, 300]
+      Position      [275, 300]
       Direction     right
       Flipped       off
       LabelPosition south
@@ -277,7 +277,7 @@ Plecs {
       Type          Resistor
       Name          "Rc3"
       Show          on
-      Position      [430, 470]
+      Position      [430, 435]
       Direction     right
       Flipped       off
       LabelPosition south
@@ -285,20 +285,6 @@ Plecs {
         Variable      "R"
         Value         "255"
         Show          on
-      }
-    }
-    Component {
-      Type          Resistor
-      Name          "R1"
-      Show          on
-      Position      [675, 290]
-      Direction     right
-      Flipped       off
-      LabelPosition south
-      Parameter {
-        Variable      "R"
-        Value         "1"
-        Show          off
       }
     }
     Connection {
@@ -319,21 +305,22 @@ Plecs {
       Type          Wire
       SrcComponent  "Cc3"
       SrcTerminal   2
-      Points        [515, 425]
+      Points        [515, 390]
       Branch {
-        Points        [515, 470]
+        Points        [515, 435]
         DstComponent  "Cc4"
         DstTerminal   2
       }
       Branch {
-        Points        [640, 425; 640, 290]
+        Points        [640, 390; 640, 290]
         Branch {
           DstComponent  "Lim. Op-Amp"
           DstTerminal   3
         }
         Branch {
-          DstComponent  "R1"
-          DstTerminal   2
+          Points        [700, 290]
+          DstComponent  "Vm2"
+          DstTerminal   1
         }
       }
     }
@@ -348,7 +335,7 @@ Plecs {
       Type          Wire
       SrcComponent  "V_dc"
       SrcTerminal   1
-      Points        [405, 180; 470, 180; 470, 280]
+      Points        [405, 205; 470, 205; 470, 280]
       DstComponent  "Lim. Op-Amp"
       DstTerminal   1
     }
@@ -391,7 +378,7 @@ Plecs {
       Type          Wire
       SrcComponent  "V"
       SrcTerminal   1
-      Points        [190, 300]
+      Points        [215, 300]
       DstComponent  "Rf2"
       DstTerminal   2
     }
@@ -399,14 +386,14 @@ Plecs {
       Type          Wire
       SrcComponent  "Cc3"
       SrcTerminal   1
-      Points        [395, 425]
+      Points        [395, 390]
       Branch {
-        Points        [395, 470]
+        Points        [395, 435]
         DstComponent  "Rc3"
         DstTerminal   2
       }
       Branch {
-        Points        [315, 425; 315, 300]
+        Points        [330, 390; 330, 300]
         Branch {
           DstComponent  "Rf2"
           DstTerminal   1
@@ -417,18 +404,10 @@ Plecs {
         }
       }
     }
-    Connection {
-      Type          Wire
-      SrcComponent  "Vm2"
-      SrcTerminal   1
-      Points        [765, 290]
-      DstComponent  "R1"
-      DstTerminal   1
-    }
     RectangleAnnotation {
-      Position     [475, 255]
-      Width        250
-      Height       210
+      Position     [485, 275]
+      Width        230
+      Height       170
       CornerRadius 3
       Thickness    2
       PenColor     10642217
@@ -438,25 +417,25 @@ Plecs {
     } 
     Annotation {
       Name          "<html><body>\n<p>Inside the UC2844</p></body></html>"
-      Position      [475, 140]
+      Position      [470, 175]
     } 
     Annotation {
       Name          "<html><body>\n<p>VFB</p></body></html>"
-      Position      [365, 310]
+      Position      [390, 315]
     } 
     Annotation {
       Name          "<html><body>\n<p>VCOMP</p></body></html>"
-      Position      [580, 280]
+      Position      [570, 280]
     } 
     Annotation {
       Name          "<html><body>\n<p><span style=\" font-size:16px;\">Run Mul"
 "titone Analysis</span></p></body></html>"
-      Position      [255, 50]
+      Position      [200, 230]
     } 
     Annotation {
       Name          "<html><body>\n<p>Simulation -&gt; Analysis Tools -&gt; Mu"
 "ltitone Analysis</p></body></html>"
-      Position      [290, 75]
+      Position      [235, 255]
     } 
   }
   Analysis {
