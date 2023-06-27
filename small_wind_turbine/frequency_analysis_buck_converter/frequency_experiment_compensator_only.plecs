@@ -1,5 +1,5 @@
 Plecs {
-  Name          "frequency_experiment_old_values_compensator_only"
+  Name          "frequency_experiment_compensator_only"
   Version       "4.7"
   CircuitModel  "ContStateSpace"
   StartTime     "0.0"
