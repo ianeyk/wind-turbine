@@ -51,7 +51,7 @@ Plecs {
   Schematic {
     Location      [0, 23; 1280, 642]
     ZoomFactor    1
-    SliderPosition [0, 30]
+    SliderPosition [0, 0]
     ShowBrowser   off
     BrowserWidth  100
     Component {
@@ -1169,7 +1169,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "50e-3"
+        Value         "25e-3"
         Show          on
       }
     }
@@ -1184,7 +1184,7 @@ Plecs {
     }
     Component {
       Type          Gain
-      Name          "Op Amp"
+      Name          "Linear\nVoltage\nCombiner"
       Show          on
       Position      [795, 435]
       Direction     left
@@ -1192,7 +1192,7 @@ Plecs {
       LabelPosition north
       Parameter {
         Variable      "K"
-        Value         "25"
+        Value         "10"
         Show          off
       }
       Parameter {
@@ -1471,7 +1471,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "5.1e3"
+        Value         "1.27e3"
         Show          on
       }
     }
@@ -1507,7 +1507,6 @@ Plecs {
       Direction     right
       Flipped       off
       LabelPosition south
-      CommentOut    DisabledOpenCircuit
       Frame         [-10, -10; 10, 10]
       Parameter {
         Variable      "Value"
@@ -1648,7 +1647,7 @@ Plecs {
       TimeRange     "0.0"
       ScrollingMode "1"
       SingleTimeAxis "1"
-      Open          "1"
+      Open          "0"
       Ts            "-1"
       SampleLimit   "0"
       XAxisLabel    "Time / s"
@@ -2509,7 +2508,7 @@ Plecs {
       Type          Label
       Name          "Label18"
       Show          off
-      Position      [820, 65]
+      Position      [870, 65]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -2528,7 +2527,7 @@ Plecs {
       Type          VoltageSource
       Name          "V2"
       Show          on
-      Position      [820, 105]
+      Position      [870, 105]
       Direction     down
       Flipped       on
       LabelPosition east
@@ -2547,7 +2546,7 @@ Plecs {
       Type          Ground
       Name          "Ground8"
       Show          off
-      Position      [820, 145]
+      Position      [870, 145]
       Direction     up
       Flipped       off
       LabelPosition east
@@ -2562,7 +2561,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "50e-3"
+        Value         "10e-3"
         Show          on
       }
     }
@@ -2670,7 +2669,7 @@ Plecs {
     }
     Component {
       Type          Gain
-      Name          "Op Amp1"
+      Name          "20V/V\nDiff Amp\nGain1"
       Show          on
       Position      [740, 435]
       Direction     right
@@ -2678,7 +2677,7 @@ Plecs {
       LabelPosition north
       Parameter {
         Variable      "K"
-        Value         "4"
+        Value         "20"
         Show          off
       }
       Parameter {
@@ -2756,6 +2755,30 @@ Plecs {
       Parameter {
         Variable      "T_init"
         Value         ""
+        Show          off
+      }
+    }
+    Component {
+      Type          Gain
+      Name          "20V/V\nDiff Amp\nGain"
+      Show          on
+      Position      [820, 105]
+      Direction     right
+      Flipped       off
+      LabelPosition south
+      Parameter {
+        Variable      "K"
+        Value         "20"
+        Show          off
+      }
+      Parameter {
+        Variable      "Multiplication"
+        Value         "1"
+        Show          off
+      }
+      Parameter {
+        Variable      "DataType"
+        Value         "10"
         Show          off
       }
     }
@@ -3398,7 +3421,7 @@ Plecs {
     }
     Connection {
       Type          Signal
-      SrcComponent  "Op Amp"
+      SrcComponent  "Linear\nVoltage\nCombiner"
       SrcTerminal   2
       Points        [830, 435; 830, 465; 880, 465]
       Branch {
@@ -3564,14 +3587,6 @@ Plecs {
       }
     }
     Connection {
-      Type          Signal
-      SrcComponent  "Diff Amp1"
-      SrcTerminal   3
-      Points        [760, 105]
-      DstComponent  "V2"
-      DstTerminal   3
-    }
-    Connection {
       Type          Wire
       SrcComponent  "Ground4"
       SrcTerminal   1
@@ -3604,14 +3619,14 @@ Plecs {
       Type          Signal
       SrcComponent  "From9"
       SrcTerminal   1
-      DstComponent  "Op Amp1"
+      DstComponent  "20V/V\nDiff Amp\nGain1"
       DstTerminal   1
     }
     Connection {
       Type          Signal
-      SrcComponent  "Op Amp1"
+      SrcComponent  "20V/V\nDiff Amp\nGain1"
       SrcTerminal   2
-      DstComponent  "Op Amp"
+      DstComponent  "Linear\nVoltage\nCombiner"
       DstTerminal   1
     }
     Connection {
@@ -3657,6 +3672,21 @@ Plecs {
         DstComponent  "Iinductor"
         DstTerminal   1
       }
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "Diff Amp1"
+      SrcTerminal   3
+      Points        [760, 105]
+      DstComponent  "20V/V\nDiff Amp\nGain"
+      DstTerminal   1
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "20V/V\nDiff Amp\nGain"
+      SrcTerminal   2
+      DstComponent  "V2"
+      DstTerminal   3
     }
     RectangleAnnotation {
       Position     [1100, 245]
@@ -3740,8 +3770,8 @@ Plecs {
       Position      [520, 430]
     } 
     RectangleAnnotation {
-      Position     [785, 100]
-      Width        150
+      Position     [810, 100]
+      Width        200
       Height       120
       CornerRadius 3
       Thickness    2
