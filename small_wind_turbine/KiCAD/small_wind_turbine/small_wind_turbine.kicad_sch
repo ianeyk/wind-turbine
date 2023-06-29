@@ -3493,7 +3493,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 37a8dcf8-039a-4420-b719-bb0b37f6045c)
     (property "Reference" "Rsh1" (id 0) (at 123.19 95.25 90))
-    (property "Value" "50m" (id 1) (at 123.19 97.79 90))
+    (property "Value" "10m" (id 1) (at 123.19 97.79 90))
     (property "Footprint" "" (id 2) (at 123.19 103.378 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3556,7 +3556,7 @@
     (property "Reference" "R9" (id 0) (at 340.36 212.0899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100" (id 1) (at 340.36 214.6299 0)
+    (property "Value" "200" (id 1) (at 340.36 214.6299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 336.042 213.36 90)
@@ -3575,7 +3575,7 @@
     (property "Reference" "R6" (id 0) (at 300.99 176.5299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100" (id 1) (at 300.99 179.0699 0)
+    (property "Value" "200" (id 1) (at 300.99 179.0699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 300.228 177.8 90)
@@ -4248,7 +4248,7 @@
     (property "Reference" "R4" (id 0) (at 234.95 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "62k" (id 1) (at 234.95 35.5599 0)
+    (property "Value" "82k" (id 1) (at 234.95 35.5599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 230.632 34.29 90)
@@ -4301,7 +4301,7 @@
     (property "Reference" "R5" (id 0) (at 234.95 50.7999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 234.95 53.3399 0)
+    (property "Value" "13k" (id 1) (at 234.95 53.3399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 230.632 52.07 90)
@@ -4470,7 +4470,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d9a98a0d-384d-4680-8a17-c665c91da68b)
     (property "Reference" "Rf1" (id 0) (at 346.71 180.34 90))
-    (property "Value" "5.1k" (id 1) (at 346.71 182.88 90))
+    (property "Value" "1.27k" (id 1) (at 346.71 182.88 90))
     (property "Footprint" "" (id 2) (at 346.71 188.468 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4921,13 +4921,13 @@
       (reference "R1") (unit 1) (value "4.7k") (footprint "")
     )
     (path "/be00c5cc-e602-4c91-a701-fb1ee4a55bb7"
-      (reference "R4") (unit 1) (value "62k") (footprint "")
+      (reference "R4") (unit 1) (value "82k") (footprint "")
     )
     (path "/c7c041c4-5b3c-4114-bd43-65ad92655c96"
-      (reference "R5") (unit 1) (value "10k") (footprint "")
+      (reference "R5") (unit 1) (value "13k") (footprint "")
     )
     (path "/4da2e1e6-5b76-4bd5-9b35-24b5f33db3c0"
-      (reference "R6") (unit 1) (value "100") (footprint "")
+      (reference "R6") (unit 1) (value "200") (footprint "")
     )
     (path "/0c39ab43-976b-404c-bc1e-3ceafeb04cbf"
       (reference "R7") (unit 1) (value "1k") (footprint "")
@@ -4936,7 +4936,7 @@
       (reference "R8") (unit 1) (value "1k") (footprint "")
     )
     (path "/43aa9581-8aa4-4148-bcaa-7b4fd33948eb"
-      (reference "R9") (unit 1) (value "100") (footprint "")
+      (reference "R9") (unit 1) (value "200") (footprint "")
     )
     (path "/874347cc-2cf5-477e-b19a-e0ad8383c913"
       (reference "R10") (unit 1) (value "4.7k") (footprint "")
@@ -4954,10 +4954,10 @@
       (reference "Rc1") (unit 1) (value "255") (footprint "")
     )
     (path "/d9a98a0d-384d-4680-8a17-c665c91da68b"
-      (reference "Rf1") (unit 1) (value "5.1k") (footprint "")
+      (reference "Rf1") (unit 1) (value "1.27k") (footprint "")
     )
     (path "/37a8dcf8-039a-4420-b719-bb0b37f6045c"
-      (reference "Rsh1") (unit 1) (value "50m") (footprint "")
+      (reference "Rsh1") (unit 1) (value "10m") (footprint "")
     )
     (path "/4145bb66-9680-4e66-8c64-c9430ebfb079"
       (reference "Rsh2") (unit 1) (value "50m") (footprint "")
