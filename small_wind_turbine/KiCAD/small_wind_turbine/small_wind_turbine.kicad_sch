@@ -7027,7 +7027,7 @@
     (property "Value" "10u" (id 1) (at 163.83 187.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 160.9852 190.5 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (id 2) (at 160.9852 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 160.02 186.69 0)
@@ -7306,7 +7306,7 @@
       (reference "C18") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fab904b1-71c8-463b-9d93-e03e494df6c7"
-      (reference "Cbs1") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "Cbs1") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
     )
     (path "/ce1db8e6-3d8b-4bfe-86e5-0de534ab5768"
       (reference "Cbuck1") (unit 1) (value "200u") (footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm")
