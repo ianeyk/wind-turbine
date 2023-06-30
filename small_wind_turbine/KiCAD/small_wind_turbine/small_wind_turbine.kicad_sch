@@ -6356,7 +6356,7 @@
     (uuid bf998c1e-9851-457c-bda0-bbc76f45eb14)
     (property "Reference" "Dbs1" (id 0) (at 151.13 152.4 0))
     (property "Value" "1N4006" (id 1) (at 151.13 154.94 0))
-    (property "Footprint" "Package_TO_SOT_SMD:TO-277A" (id 2) (at 151.13 154.305 0)
+    (property "Footprint" "small_wind_turbine:TO-277A" (id 2) (at 151.13 154.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 151.13 158.75 0)
@@ -6731,7 +6731,7 @@
     (property "Value" "1N4006" (id 1) (at 83.185 114.2999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TO-277A" (id 2) (at 76.2 113.03 0)
+    (property "Footprint" "small_wind_turbine:TO-277A" (id 2) (at 76.2 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf" (id 3) (at 80.645 113.03 0)
@@ -7360,10 +7360,10 @@
       (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/bf998c1e-9851-457c-bda0-bbc76f45eb14"
-      (reference "Dbs1") (unit 1) (value "1N4006") (footprint "Package_TO_SOT_SMD:TO-277A")
+      (reference "Dbs1") (unit 1) (value "1N4006") (footprint "small_wind_turbine:TO-277A")
     )
     (path "/e2a3e246-7988-4ce2-b1ab-4844174a9c69"
-      (reference "Dbuck1") (unit 1) (value "1N4006") (footprint "Package_TO_SOT_SMD:TO-277A")
+      (reference "Dbuck1") (unit 1) (value "1N4006") (footprint "small_wind_turbine:TO-277A")
     )
     (path "/1e563895-7a76-4dc7-88cd-1d77261b265a"
       (reference "F1") (unit 1) (value "1.5A") (footprint "small_wind_turbine:5x20mm_fuse_holder")

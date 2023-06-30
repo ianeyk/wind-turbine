@@ -1,4 +1,4 @@
-20416356791530220
+20416356794884873
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86132,14 +86132,14 @@ Oscilloscope_Test_Point
 Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
 Through Hole Mount Test Points
 0
-1
-1
+3
+2
 small_wind_turbine
 TO-277A
 Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
 TO-277A SMPC
 0
-12
+11
 2
 small_wind_turbine
 manual_switch
