@@ -1169,7 +1169,7 @@ Plecs {
       LabelPosition south
       Parameter {
         Variable      "R"
-        Value         "50e-3"
+        Value         "10e-3"
         Show          on
       }
     }
@@ -1192,7 +1192,7 @@ Plecs {
       LabelPosition north
       Parameter {
         Variable      "K"
-        Value         "5"
+        Value         "25"
         Show          off
       }
       Parameter {
