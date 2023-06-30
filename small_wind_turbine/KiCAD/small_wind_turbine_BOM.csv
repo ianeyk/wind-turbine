@@ -1,0 +1,32 @@
+This sheet is the BOM for the small wind turbine battery charger PCB. I have specced components for ~2A maximum current draw into a 12V marine battery. All of these components can be found on Digikey unless otherwise noted. Quantity is required for making one PCB; it is the actual components listed in the schematic. We may want to order enough for 2 PCB's.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Row,Footprint,Part Name,Quantity,Supplier,Link,Datasheet,Price per ($),Total price ($),Notes
+1,TRUE,SPDT Relay,1,Digikey,https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/G5LE-1-VDDC12/1815685,https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf,1.41,1.41,"12V, 33mA"
+2,TRUE,Manual Switch,1,Digikey,https://www.digikey.com/en/products/detail/e-switch/100SP1T1B4M2QE/378824,,1.68,1.68,"Only rated for up to 28V DC, but we're giving it ~50V. I'm sure it will be fine. I can't exactly find one that's better."
+3,TRUE,Terminal Block 2 Pin F,2,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01R1-508-02BE/10238383,,0.56,1.12,
+4,TRUE,Terminal Block 2 Pin M,2,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01P1-508-02BE/10238367,,0.86,1.72,
+5,TRUE,Terminal Block 3 Pin F,1,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01R1-508-03BE/10238384,,0.61,0.61,
+6,TRUE,Terminal Block 3 Pin M,1,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01P1-508-03BE/10238368,,0.99,0.99,
+7,TRUE,Power Inductor 330uH,1,Digikey,https://www.digikey.com/en/products/detail/murata-power-solutions-inc/60B334C/3178535,https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_6000b.pdf,2.2,2.2,"Datasheet frequency graph is in kHz, not Hz"
+8,TRUE,Bridge Rectifer Diode,8,Digikey,https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/V8PM153-M3-I/16683234,,0.18,1.44,
+9,TRUE,Switching MOSFET,1,Digikey,https://www.digikey.com/en/products/detail/onsemi/FDP61N20/1217877,https://www.onsemi.com/pdf/datasheet/fdp61n20-d.pdf,2.86,2.86,Same as used in Power Electronics
+10,TRUE,Op Amp Quad,1,Digikey,https://www.digikey.com/en/products/detail/texas-instruments/TLV9064IDR/7931882,https://www.ti.com/lit/ds/symlink/tlv9064.pdf,0.87,0.87,"High slew rate, high gain bandwidth product"
+11,TRUE,"Fuse Holder, 5x20mm",1,Digikey,https://www.digikey.com/en/products/detail/keystone-electronics/4527/8397,,0.69,0.69,
+12,TRUE,"2A Fuse, 5x20mm",1,Digikey,https://www.digikey.com/en/products/detail/eaton-electronics-division/BK-S500-2-R/954261,,0.37,0.37,
+13,TRUE,UC2844,1,Mouser,https://www.mouser.com/ProductDetail/Texas-Instruments/UC2844AD8?qs=xJkDX%2FqrskO30lVwYIVmGA%3D%3D,https://www.ti.com/lit/ds/symlink/uc2844a.pdf,1.59,1.59,UC2844A is an improved version of the UC2844
+14,TRUE,SPI 10-bit DAC,1,Digikey,https://www.digikey.com/en/products/detail/microchip-technology/MCP4716A1T-E-CH/2665073,https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf,1.97,1.97,Optional but still fun
+15,TRUE,I2C 10-bit ADC Address 5,1,Digikey,https://www.digikey.com/en/products/detail/microchip-technology/MCP3021A5T-E-OT/593685,https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20001805C.pdf,1.41,1.41,Optional. Address #5 (default)
+16,TRUE,I2C 10-bit ADC Address 2,1,Digikey,https://www.digikey.com/en/products/detail/microchip-technology/MCP3021A2T-E-OT/2601424,https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20001805C.pdf,1.41,1.41,Optional. Address #2 (must be different from above because of I2C addressing)
+17,TRUE,Orange LEDs,3,Digikey,https://www.digikey.com/en/products/detail/liteon/LTST-C191KFKT/386833,,0.24,0.72,
+18,TRUE,Green LEDs,3,Digikey,https://www.digikey.com/en/products/detail/liteon/LTST-C191KGKT/386835,,0.26,0.78,
+19,TRUE,5V Linear Regulator,1,Digikey,https://www.digikey.com/en/products/detail/diodes-incorporated/AZ1117IH-5-0TRG1/5699673,https://www.diodes.com/assets/Datasheets/AZ1117I.pdf,0.37,0.37,Recommended no higher than 15V input voltage. Absolute maximum rating 18V.
+20,TRUE,Dump Load Resistor,1,Digikey,https://www.digikey.com/en/products/detail/vishay-huntington-electric-inc/FVE030020E16R0KE/269993,,22.05,22.05,"Yeah, it's expensive for 300W of dissipation"
+21,TRUE,High Side Gate Driver Opt. 2,1,Digikey,https://www.digikey.com/en/products/detail/analog-devices-inc/LTC4440ES6-TRMPBF/1116021,https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf,6.04,6.04,"Max 80V. Can drive up to 2.4A, which would greatly decrease the switching time."
+22,TRUE,2-pin Jumpers,10,Digikey,https://www.digikey.com/en/products/detail/sullins-connector-solutions/QPC02SXGN-RC/2618262,,0.1,1,
+23,TRUE,Differential Amplifier Opt. 2,2,Digikey,https://www.digikey.com/en/products/detail/texas-instruments/INA240A1DR/8538109,https://www.ti.com/lit/ds/symlink/ina240.pdf,3.3,6.6,
+24,TRUE,200uF Aluminum Capacitor,1,Digikey,https://www.digikey.com/en/products/detail/chemi-con/EGXF101ELL201MK25S/6204522,,2.3,2.3,
+25,TRUE,10uF Aluminum Capacitor,1,Digikey,https://www.digikey.com/en/products/detail/kemet/ESK106M100AE3EA/9448267,,0.25,0.25,
+26,TRUE,10mOhm 1206 Resistor,2,Digikey,https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1MPC1206QR010FF-T5/16735470,,0.36,0.72,
+27,TRUE,Relay MOSFET,1,Digikey,https://www.digikey.com/en/products/detail/rohm-semiconductor/RUC002N05T116/4004578,,0.32,0.32,
+,,,,,,,Total:,63.49,
