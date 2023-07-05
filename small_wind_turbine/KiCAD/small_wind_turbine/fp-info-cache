@@ -1,4 +1,4 @@
-20552722941240507
+20556100111666739
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86659,6 +86659,20 @@ small_wind_turbine
 0
 2
 2
+small_wind_turbine
+CUI_TBP01R1-508-02BE
+
+
+0
+2
+2
+small_wind_turbine
+CUI_TBP01R1-508-03BE
+
+
+0
+6
+3
 small_wind_turbine
 Oscilloscope_Test_Point
 Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
