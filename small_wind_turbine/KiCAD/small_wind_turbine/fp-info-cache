@@ -1,4 +1,4 @@
-20419734151028759
+20426488257561225
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86135,6 +86135,13 @@ Through Hole Mount Test Points
 2
 2
 small_wind_turbine
+Relay_SPDT_Omron_G5LE-1
+Omron Relay SPDT, http://www.omron.com/ecb/products/pdf/en-g5le.pdf
+Omron Relay SPDT
+0
+5
+5
+small_wind_turbine
 TO-277A
 Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
 TO-277A SMPC
@@ -86153,8 +86160,29 @@ TerminalBlock_1x03_P5.08mm_Horizontal
 Terminal Block Phoenix MKDS-1,5-3-5.08, 3 pins, pitch 5.08mm, size 15.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
 THT Terminal Block Phoenix MKDS-1,5-3-5.08 pitch 5.08mm size 15.2x9.8mm^2 drill 1.3mm pad 2.6mm
 0
+6
 3
-3
+small_wind_turbine
+h_rotor_design_1
+
+
+0
+0
+0
+small_wind_turbine
+h_rotor_design_2
+
+
+0
+0
+0
+small_wind_turbine
+h_rotor_design_3
+
+
+0
+0
+0
 small_wind_turbine
 manual_switch
 

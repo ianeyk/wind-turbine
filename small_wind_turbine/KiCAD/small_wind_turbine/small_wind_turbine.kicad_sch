@@ -6503,7 +6503,7 @@
     (uuid d6fe864f-55c9-4e92-95b4-f639ead47694)
     (property "Reference" "K1" (id 0) (at 116.205 24.13 90))
     (property "Value" "G5LE-1" (id 1) (at 116.205 26.67 90))
-    (property "Footprint" "Relay_THT:Relay_SPDT_Omron-G5LE-1" (id 2) (at 114.935 50.8 0)
+    (property "Footprint" "small_wind_turbine:Relay_SPDT_Omron_G5LE-1" (id 2) (at 114.935 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" (id 3) (at 116.205 39.37 0)
@@ -7281,7 +7281,7 @@
       (reference "Jres1") (unit 1) (value "Screw_Terminal_01x02") (footprint "small_wind_turbine:TerminalBlock_1x02_P5.08mm_leads")
     )
     (path "/d6fe864f-55c9-4e92-95b4-f639ead47694"
-      (reference "K1") (unit 1) (value "G5LE-1") (footprint "Relay_THT:Relay_SPDT_Omron-G5LE-1")
+      (reference "K1") (unit 1) (value "G5LE-1") (footprint "small_wind_turbine:Relay_SPDT_Omron_G5LE-1")
     )
     (path "/97263c60-67a3-4e83-aaf1-37328c6615bf"
       (reference "Lbuck1") (unit 1) (value "330u") (footprint "small_wind_turbine:smd_inductor")
