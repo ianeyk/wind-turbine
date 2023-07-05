@@ -8901,7 +8901,7 @@
   (gr_text "3-Phase, 50V-80V In\nDC 12V, 0A-0.5A Out" (at 44.1 33) (layer "F.SilkS") (tstamp 7d8dba88-5a6d-46fa-a217-c99fa03724ce)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "300W 16Ohm\nResistor" (at 128 84.2 90) (layer "F.SilkS") (tstamp adb5fa32-b56d-4b58-a6bb-0bf8b448dfa5)
+  (gr_text "300W 16Ω\nResistor" (at 128 83.2 90) (layer "F.SilkS") (tstamp adb5fa32-b56d-4b58-a6bb-0bf8b448dfa5)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "-" (at 43.6 53.7) (layer "F.SilkS") (tstamp ae7b171f-394c-4c3e-9111-d6f57cf1f915)
