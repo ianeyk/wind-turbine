@@ -1,4 +1,4 @@
-20559477341200115
+20561165995471775
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86701,6 +86701,13 @@ Omron Relay SPDT
 0
 5
 5
+small_wind_turbine
+SOD-323-EP_custom
+
+
+0
+2
+2
 small_wind_turbine
 TO-277A
 Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
