@@ -5907,7 +5907,7 @@
   (symbol (lib_id "Diode:1N5402") (at 116.205 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a636d248-70a9-4398-8397-b79925cddbcc)
-    (property "Reference" "D?" (id 0) (at 120.015 19.685 0))
+    (property "Reference" "D13" (id 0) (at 120.015 19.685 0))
     (property "Value" "1N5402" (id 1) (at 120.015 22.225 0))
     (property "Footprint" "small_wind_turbine:SOD-323-EP_custom" (id 2) (at 116.205 29.845 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7252,7 +7252,7 @@
       (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/a636d248-70a9-4398-8397-b79925cddbcc"
-      (reference "D?") (unit 1) (value "1N5402") (footprint "small_wind_turbine:SOD-323-EP_custom")
+      (reference "D13") (unit 1) (value "1N5402") (footprint "small_wind_turbine:SOD-323-EP_custom")
     )
     (path "/bf998c1e-9851-457c-bda0-bbc76f45eb14"
       (reference "Dbs1") (unit 1) (value "1N4006") (footprint "small_wind_turbine:TO-277A")

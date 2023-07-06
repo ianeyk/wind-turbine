@@ -9,7 +9,7 @@ Row,Footprint,Part Name,Quantity,Supplier,Link,Datasheet,Price per ($),Total pri
 5,TRUE,Terminal Block 3 Pin F,1,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01R1-508-03BE/10238384,,0.61,0.61,
 6,TRUE,Terminal Block 3 Pin M,1,Digikey,https://www.digikey.com/en/products/detail/cui-devices/TBP01P1-508-03BE/10238368,,0.99,0.99,
 7,TRUE,Power Inductor 330uH,1,Digikey,https://www.digikey.com/en/products/detail/murata-power-solutions-inc/60B334C/3178535,https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_6000b.pdf,2.2,2.2,"Datasheet frequency graph is in kHz, not Hz"
-8,TRUE,Bridge Rectifer Diode,8,Digikey,https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/V8PM153-M3-I/16683234,,0.18,1.44,
+8,TRUE,Bridge Rectifer Diode,8,Digikey,https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/V8PM153-M3-I/16683234,https://www.vishay.com/docs/87203/v8pm153.pdf,0.18,1.44,
 9,TRUE,Switching MOSFET,1,Digikey,https://www.digikey.com/en/products/detail/onsemi/FDP61N20/1217877,https://www.onsemi.com/pdf/datasheet/fdp61n20-d.pdf,2.86,2.86,Same as used in Power Electronics
 10,TRUE,Op Amp Quad,1,Digikey,https://www.digikey.com/en/products/detail/texas-instruments/TLV9064IDR/7931882,https://www.ti.com/lit/ds/symlink/tlv9064.pdf,0.87,0.87,"High slew rate, high gain bandwidth product"
 11,TRUE,"Fuse Holder, 5x20mm",1,Digikey,https://www.digikey.com/en/products/detail/keystone-electronics/4527/8397,,0.69,0.69,
@@ -29,4 +29,5 @@ Row,Footprint,Part Name,Quantity,Supplier,Link,Datasheet,Price per ($),Total pri
 25,TRUE,10uF Aluminum Capacitor,1,Digikey,https://www.digikey.com/en/products/detail/kemet/ESK106M100AE3EA/9448267,,0.25,0.25,
 26,TRUE,10mOhm 1206 Resistor,2,Digikey,https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1MPC1206QR010FF-T5/16735470,,0.36,0.72,
 27,TRUE,Relay MOSFET,1,Digikey,https://www.digikey.com/en/products/detail/rohm-semiconductor/RUC002N05T116/4004578,,0.32,0.32,
-,,,,,,,Total:,63.49,
+28,TRUE,Relay Diode,1,Digikey,https://www.digikey.com/en/products/detail/onsemi/SS16HE/6009695,https://www.onsemi.com/pdf/datasheet/ss13he-d.pdf,0.42,0.42,
+,,,,,,,Total:,63.91,
