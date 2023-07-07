@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\dev\git\wind-turbine\small_wind_turbine\KiCAD\small_wind_turbine\small_wind_turbine.kicad_sch</source>
+    <date>7/6/2023 11:22:20 AM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>small_wind_turbine.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>Adafruit_Feather_M0_Adalogger</value>
+      <footprint>Module:Adafruit_Feather</footprint>
+      <datasheet>https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-adalogger.pdf</datasheet>
+      <libsource lib="MCU_Module" part="Adafruit_Feather_M0_Adalogger" description="Microcontroller module with SAMD21 Cortex-M0 MCU and SD card reader"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79edde1e-9874-4c36-9033-ee5ab7cbc326</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0841b6dc-8b65-45b2-a82f-37f60a53ccf5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31b23724-33a9-4da5-86db-721a91065a5c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d842e77-79d8-45ad-ba26-0aec5c071db8</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee84018-9254-4924-b882-572c329ba37a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7b2d476-24a0-42ff-993b-e72b8ae67f3c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6284e49-8452-4230-8133-c77bdb202015</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>837a2a92-e519-4875-b4fb-cd5e7b5fa2b7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cff1e3b-2795-4bb1-b255-ccebed559bb4</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce4c0fd2-f779-40ad-ac83-e5d43568fe56</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3007cd93-80e9-4f5c-a612-4ef29802f861</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d06e42b-b375-4e9e-bac1-af119aa4b8d0</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf1e448f-7fce-44eb-94d4-2fdd67f4e817</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65740bfb-4474-4a49-af12-393fdabb47a1</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18541c93-e984-4aae-a9dc-369f81b3ee8a</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a901a95-691a-4d04-9610-6e22a1038f0f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38fc0f6f-f127-49b7-a4aa-aa6c991980ec</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acf6c58d-7dc9-4a67-b811-0b506f57c94c</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ead184ff-27c0-4bc5-983e-97b9a3b9f587</tstamps>
+    </comp>
+    <comp ref="Cbs1">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/nichicon/UVY2C100MPD1TD/4329161</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fab904b1-71c8-463b-9d93-e03e494df6c7</tstamps>
+    </comp>
+    <comp ref="Cbuck1">
+      <value>200u</value>
+      <footprint>Capacitor_THT:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/chemi-con/EGXF101ELL201MK25S/6204522</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1db8e6-3d8b-4bfe-86e5-0de534ab5768</tstamps>
+    </comp>
+    <comp ref="Cc1">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01ace290-1601-449d-a23e-023a76dc1431</tstamps>
+    </comp>
+    <comp ref="Cc2">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f14aa714-1277-4bb6-a35d-1ca4340894d6</tstamps>
+    </comp>
+    <comp ref="Cinput1">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/ESK106M100AE3EA/9448267</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4d06844-9e03-43ba-8943-e9b0fba81e36</tstamps>
+    </comp>
+    <comp ref="Ct1">
+      <value>2.2n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f63084e7-fa52-4b59-a13c-c4db1a199954</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2162fcc4-ae31-42ea-85fb-beda22c65be5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbf2a2b1-b5ec-44b7-94b8-5daf13d88904</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85976023-b594-4745-861f-28112281b79d</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f87e8c8-9e93-44a1-82e5-123f4ad1ea4e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd7396bd-3679-4e69-bf7d-c994b40c2ccb</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6590dd18-eecc-414a-a550-754e59c7b0df</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0929888f-d70a-448d-a2d1-ab64e97c4f21</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba5dc3be-926c-49e1-9d4e-bf32cce79ae0</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f8ad636-75ed-4dcf-8344-dc36e3d674a3</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c0f4c4c-5ae7-485c-bdad-a6ed828d9f45</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2326f3b2-5609-4ab9-8312-a8d5e58ffaa3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ec1fd9a-f1d3-43e0-ba42-2969b3b1c055</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N5402</value>
+      <footprint>small_wind_turbine:SOD-323-EP_custom</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N5402" description="200V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a636d248-70a9-4398-8397-b79925cddbcc</tstamps>
+    </comp>
+    <comp ref="Dbs1">
+      <value>1N4006</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N4006" description="800V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf998c1e-9851-457c-bda0-bbc76f45eb14</tstamps>
+    </comp>
+    <comp ref="Dbuck1">
+      <value>1N4006</value>
+      <footprint>small_wind_turbine:TO-277A</footprint>
+      <datasheet>https://www.vishay.com/docs/87203/v8pm153.pdf</datasheet>
+      <libsource lib="Diode" part="1N4006" description="800V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2a3e246-7988-4ce2-b1ab-4844174a9c69</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>1.5A</value>
+      <footprint>small_wind_turbine:FUSE_4527</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e563895-7a76-4dc7-88cd-1d77261b265a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1afcae1f-c0cc-4366-be46-912755a4a027</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7200f35-fe5f-4f31-aac3-6fc6c57437d7</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d14bff9-24c8-4564-9313-1f2a4a9f5cdb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16239a22-140a-4117-afb9-20365872ec8a</tstamps>
+    </comp>
+    <comp ref="Jbat1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>small_wind_turbine:CUI_TBP01R1-508-02BE</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/tbp01r1-508.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c346af4d-70e6-4239-ae69-840d06e1dca9</tstamps>
+    </comp>
+    <comp ref="Jfuse1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>small_wind_turbine:CUI_TBP01R1-508-03BE_no_extra</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/tbp01r1-508.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2faf1a-ce90-45d8-b875-fcf3f58848d5</tstamps>
+    </comp>
+    <comp ref="Jgen1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>small_wind_turbine:CUI_TBP01R1-508-03BE</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/tbp01r1-508.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41d6540c-26d7-4e6c-8fd9-d4bf0dfeb44c</tstamps>
+    </comp>
+    <comp ref="Jres1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>small_wind_turbine:CUI_TBP01R1-508-02BE</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/tbp01r1-508.pdf</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ab67915-2950-455d-892b-4754085f1747</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>G5LE-1</value>
+      <footprint>small_wind_turbine:Relay_SPDT_Omron_G5LE-1</footprint>
+      <datasheet>http://www.omron.com/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <libsource lib="Relay" part="G5LE-1" description="Omron G5LE relay, Miniature Single Pole, SPDT, 10A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6fe864f-55c9-4e92-95b4-f639ead47694</tstamps>
+    </comp>
+    <comp ref="Lbuck1">
+      <value>330u</value>
+      <footprint>small_wind_turbine:smd_inductor</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_6000b.pdf</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97263c60-67a3-4e83-aaf1-37328c6615bf</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_GSD</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/ruc002n05t116-e.pdf</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>118b0b0a-fa12-4ca4-b47b-2d44da30678e</tstamps>
+    </comp>
+    <comp ref="Qbuck1">
+      <value>IRF6710S2</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/fdp61n20-d.pdf</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d52ff71e-c34a-4422-b42d-42d802a84e8c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>928f9c53-7ad5-4dd7-8760-30969de9b03b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>12k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00f6d80a-546f-419a-8890-e853799b3b8c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b3319b0-28c4-4cfe-afa3-f2613263038a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>82k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be00c5cc-e602-4c91-a701-fb1ee4a55bb7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>13k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7c041c4-5b3c-4114-bd43-65ad92655c96</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4da2e1e6-5b76-4bd5-9b35-24b5f33db3c0</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c39ab43-976b-404c-bc1e-3ceafeb04cbf</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8a4cf92-6761-4c11-818d-283cb0e8b09e</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43aa9581-8aa4-4148-bcaa-7b4fd33948eb</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>874347cc-2cf5-477e-b19a-e0ad8383c913</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb54031c-f2fc-4202-ad96-2be121630b47</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f55259eb-0b9c-423b-a8a7-e93dd66e654e</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ee99b46-f858-4a06-bd38-71c8205bad9c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>130</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>640c1554-c371-483d-aee6-9c998bf40617</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>130</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6357422c-61d3-4bed-8ae5-b28200472a9f</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>130</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b9a51dc-c253-4133-abfa-5a485605f356</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>130</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a899c66f-a5e2-4245-90de-8d4b508f17d5</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8e63eea-4765-457e-ad5c-e195be8ed4fb</tstamps>
+    </comp>
+    <comp ref="Rc1">
+      <value>255</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b27ad75-5331-404a-ba3f-3b8ff7fd549f</tstamps>
+    </comp>
+    <comp ref="Rf1">
+      <value>1.27k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9a98a0d-384d-4680-8a17-c665c91da68b</tstamps>
+    </comp>
+    <comp ref="Rsh1">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1MPC1206QR010FF-T5/16735470</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37a8dcf8-039a-4420-b719-bb0b37f6045c</tstamps>
+    </comp>
+    <comp ref="Rsh2">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/thin-film-technology-corp/D1MPC1206QR010FF-T5/16735470</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4145bb66-9680-4e66-8c64-c9430ebfb079</tstamps>
+    </comp>
+    <comp ref="Rt1">
+      <value>7.87k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7da34064-fe09-4834-a1fe-c425bf57d2d4</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push_SPDT</value>
+      <footprint>small_wind_turbine:manual_switch</footprint>
+      <libsource lib="Switch" part="SW_Push_SPDT" description="Momentary Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ee614df-a936-48ce-a535-431112f55619</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7cc503b-c511-4bdb-9eeb-3da251bcf671</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>005324bd-49a5-43c3-8a68-79ce2fa4bf2d</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>befa2b13-7c10-49ff-9e72-a702e099b148</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31602f25-a8cd-4cdc-b9be-d9200f1ac545</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f593b037-3443-4963-ac1e-f5222fe40392</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2ec9c23-2f01-436b-ae17-b487ea896379</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>937f2ca9-5a38-4386-aebb-4f620be302a1</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23cc081f-fcb6-4e01-aa44-44ae94a980c7</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint_2Pole</value>
+      <footprint>small_wind_turbine:Oscilloscope_Test_Point</footprint>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5663837-e9c0-4315-b257-9a82f239693f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>UC2844A</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/uc2844a.pdf</datasheet>
+      <libsource lib="just_energy_hub" part="UC2844A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ef59b2-3586-4d56-95b9-cca7f78a5f9e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LTC4440ES6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf</datasheet>
+      <libsource lib="Driver_FET" part="LTC4440ES6" description="High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, SOT23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27a72190-1018-4b58-8154-dad8e917ac66</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>Opamp_Quad</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tlv9064.pdf</datasheet>
+      <libsource lib="Device" part="Opamp_Quad" description="Quad operational amplifier"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d665492-d96f-4b1a-942c-8d589bce7c9a acbbc860-9d38-44aa-9be8-a38bc2a954c7 9d9d185b-7ed5-43a8-aab4-d63982188671 da577cba-8261-4584-897a-1e41b6709e54 5c4e9362-033e-4bc7-aa58-828222de941a</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>INA240A1D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ina240.pdf</datasheet>
+      <libsource lib="Amplifier_Current" part="INA240A1D" description="High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 20V/V, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2e0056a-c5b6-4831-bd04-206b854e5a03</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>INA240A1D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ina240.pdf</datasheet>
+      <libsource lib="Amplifier_Current" part="INA240A1D" description="High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 20V/V, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afcfcc05-8147-428d-bd6d-4690d65d665a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MCP3021</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20001805C.pdf</datasheet>
+      <libsource lib="just_energy_hub" part="MCP3021" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c3f4825-8094-499b-a904-8dfa445c0083</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>MCP3021</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20001805C.pdf</datasheet>
+      <libsource lib="just_energy_hub" part="MCP3021" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33677055-0050-48d0-8dc3-bd0febfb1c6f</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>MCP4725xxx-xCH</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22039d.pdf</datasheet>
+      <libsource lib="Analog_DAC" part="MCP4725xxx-xCH" description="12-bit Digital-to-Analog Converter, integrated EEPROM, I2C interface, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d444af97-257d-49fc-81ef-1942ef13f78f</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>AZ1117-5.0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AZ1117I.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AZ1117-5.0" description="1A 20V Fixed LDO Linear Regulator, 5.0V, SOT-89/SOT-223/TO-220/TO-252/TO-263"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="small_wind_turbine.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f13a4ba-3859-4fa6-8eb2-5276ed626717</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Current" part="INA240A1D">
+      <description>High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 20V/V, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina240.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA240A1D</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina240.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="REF2" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="REF1" type="passive"/>
+        <pin num="8" name="+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Analog_DAC" part="MCP4725xxx-xCH">
+      <description>12-bit Digital-to-Analog Converter, integrated EEPROM, I2C interface, SOT-23-6</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/22039d.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP4725xxx-xCH</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/22039d.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+        <pin num="5" name="SCL" type="input"/>
+        <pin num="6" name="A0" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_2Pole">
+      <description>2-polar test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_2Pole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Opamp_Quad">
+      <description>Quad operational amplifier</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Opamp_Quad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4006">
+      <description>800V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4006</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5402">
+      <description>200V 3A General Purpose Rectifier Diode, DO-201AD</description>
+      <docs>http://www.vishay.com/docs/88516/1n5400.pdf</docs>
+      <footprints>
+        <fp>D*DO?201AD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5402</field>
+        <field name="Footprint">Diode_THT:D_DO-201AD_P15.24mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88516/1n5400.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="LTC4440ES6">
+      <description>High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, SOT23-6</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC4440ES6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="INP" type="input"/>
+        <pin num="4" name="TS" type="input"/>
+        <pin num="5" name="TG" type="output"/>
+        <pin num="6" name="BOOST" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="Adafruit_Feather_M0_Adalogger">
+      <description>Microcontroller module with SAMD21 Cortex-M0 MCU and SD card reader</description>
+      <docs>https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-adalogger.pdf</docs>
+      <footprints>
+        <fp>Adafruit*Feather*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Adafruit_Feather_M0_Adalogger</field>
+        <field name="Footprint">Module:Adafruit_Feather</field>
+        <field name="Datasheet">https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-adalogger.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}" type="input"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="AREF" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DAC0/A0" type="bidirectional"/>
+        <pin num="6" name="A1" type="bidirectional"/>
+        <pin num="7" name="A2" type="bidirectional"/>
+        <pin num="8" name="A3" type="bidirectional"/>
+        <pin num="9" name="A4" type="bidirectional"/>
+        <pin num="10" name="A5" type="bidirectional"/>
+        <pin num="11" name="SCK/D24" type="bidirectional"/>
+        <pin num="12" name="MOSI/D23" type="bidirectional"/>
+        <pin num="13" name="MISO/D22" type="bidirectional"/>
+        <pin num="14" name="RX/D0" type="bidirectional"/>
+        <pin num="15" name="TX/D1" type="bidirectional"/>
+        <pin num="16" name="GND" type="passive"/>
+        <pin num="17" name="SDA/D20" type="bidirectional"/>
+        <pin num="18" name="SCL/D21" type="bidirectional"/>
+        <pin num="19" name="D5" type="bidirectional"/>
+        <pin num="20" name="D6" type="bidirectional"/>
+        <pin num="21" name="D9" type="bidirectional"/>
+        <pin num="22" name="D10" type="bidirectional"/>
+        <pin num="23" name="D11" type="bidirectional"/>
+        <pin num="24" name="D12" type="bidirectional"/>
+        <pin num="25" name="D13" type="bidirectional"/>
+        <pin num="26" name="USB" type="power_in"/>
+        <pin num="27" name="EN" type="input"/>
+        <pin num="28" name="VBAT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AZ1117-5.0">
+      <description>1A 20V Fixed LDO Linear Regulator, 5.0V, SOT-89/SOT-223/TO-220/TO-252/TO-263</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AZ1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+        <fp>SOT?89*</fp>
+        <fp>TO?220*</fp>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AZ1117-5.0</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AZ1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="G5LE-1">
+      <description>Omron G5LE relay, Miniature Single Pole, SPDT, 10A</description>
+      <docs>http://www.omron.com/ecb/products/pdf/en-g5le.pdf</docs>
+      <footprints>
+        <fp>Relay*SPDT*Omron*G5LE?1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">G5LE-1</field>
+        <field name="Footprint">Relay_THT:Relay_SPDT_Omron-G5LE-1</field>
+        <field name="Datasheet">http://www.omron.com/ecb/products/pdf/en-g5le.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_SPDT">
+      <description>Momentary Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="just_energy_hub" part="MCP3021">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP3021</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="AIN" type="input"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+        <pin num="5" name="SCL" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="just_energy_hub" part="UC2844A">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">UC2844A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COMP" type="input"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="ISENSE" type="input"/>
+        <pin num="4" name="RT/CT" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="OUTPUT" type="output"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="VREF" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Current">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Current.kicad_sym</uri>
+    </library>
+    <library logical="Analog_DAC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Analog_DAC.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Driver_FET.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="just_energy_hub">
+      <uri>C:/Users/ieykamp/OneDrive - Olin College of Engineering/Documents/KiCAD/6.0/symbols/just_energy_hub.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="A1" pin="2" pinfunction="3V3" pintype="power_in"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U9" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Cbuck1" pin="1" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dbs1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="Rsh1" pin="2" pintype="passive"/>
+      <node ref="Rsh2" pin="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="4" name="/ALTERNATE_ADC">
+      <node ref="A1" pin="6" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="/ALTERNATE_ADC_2">
+      <node ref="A1" pin="7" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="6" name="/ALTERNATE_DAC">
+      <node ref="A1" pin="5" pinfunction="DAC0/A0" pintype="bidirectional"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="7" name="/BATTERY_POSITIVE">
+      <node ref="Jbat1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="Rsh2" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="8" name="/GATE_SOURCE">
+      <node ref="Cbs1" pin="2" pintype="passive"/>
+      <node ref="Dbuck1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Lbuck1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Qbuck1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="TS" pintype="input"/>
+    </net>
+    <net code="9" name="/GPIO_LED1">
+      <node ref="A1" pin="20" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/GPIO_LED2">
+      <node ref="A1" pin="21" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/GPIO_LED3">
+      <node ref="A1" pin="22" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/HIGH_SIDE_GATE_DRIVE">
+      <node ref="Qbuck1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/INPUT_ISENSE_UPSTREAM">
+      <node ref="Lbuck1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Rsh1" pin="1" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="14" name="/RECTIFIER_LED">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="Jfuse1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/RECTIFIER_VDD">
+      <node ref="Cinput1" pin="1" pintype="passive"/>
+      <node ref="Qbuck1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/RELAY_DRIVE">
+      <node ref="A1" pin="19" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/UC2844_COMP">
+      <node ref="Cc1" pin="2" pintype="passive"/>
+      <node ref="Cc2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="COMP" pintype="input"/>
+    </net>
+    <net code="18" name="/UC2844_FB">
+      <node ref="Cc2" pin="2" pintype="passive"/>
+      <node ref="Rc1" pin="1" pintype="passive"/>
+      <node ref="Rf1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="19" name="/UC2844_GATE_OUTPUT">
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="OUTPUT" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="INP" pintype="input"/>
+    </net>
+    <net code="20" name="/UC2844_ISENSE">
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="ISENSE" pintype="input"/>
+      <node ref="U5" pin="5" pintype="output"/>
+    </net>
+    <net code="21" name="/WEMOS_SCL">
+      <node ref="A1" pin="18" pinfunction="SCL/D21" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U8" pin="5" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U9" pin="5" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="22" name="/WEMOS_SDA">
+      <node ref="A1" pin="17" pinfunction="SDA/D20" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="GND">
+      <node ref="A1" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="A1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="Cbuck1" pin="2" pintype="passive"/>
+      <node ref="Cinput1" pin="2" pintype="passive"/>
+      <node ref="Ct1" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dbuck1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Jbat1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Jfuse1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Jres1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="REF2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="REF1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="REF2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="REF1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="24" name="Net-(A1-Pad26)">
+      <node ref="A1" pin="26" pinfunction="USB" pintype="power_in"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Cbs1-Pad1)">
+      <node ref="Cbs1" pin="1" pintype="passive"/>
+      <node ref="Dbs1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="BOOST" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(Cc1-Pad1)">
+      <node ref="Cc1" pin="1" pintype="passive"/>
+      <node ref="Rc1" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Ct1-Pad1)">
+      <node ref="Ct1" pin="1" pintype="passive"/>
+      <node ref="Rt1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="RT/CT" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="Jfuse1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Jgen1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Jgen1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Jgen1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="5" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="AIN" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="AIN" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="45" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="46" name="Net-(Jres1-Pad1)">
+      <node ref="Jres1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="4" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(K1-Pad3)">
+      <node ref="K1" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="Rf1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="14" pintype="output"/>
+    </net>
+    <net code="53" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="TG" pintype="output"/>
+    </net>
+    <net code="54" name="Net-(Rt1-Pad1)">
+      <node ref="Rt1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VREF" pintype="output"/>
+    </net>
+    <net code="55" name="Net-(TP9-Pad1)">
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="5" pintype="output"/>
+    </net>
+    <net code="56" name="unconnected-(A1-Pad1)">
+      <node ref="A1" pin="1" pinfunction="~{RESET}" pintype="input+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(A1-Pad3)">
+      <node ref="A1" pin="3" pinfunction="AREF" pintype="input+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(A1-Pad8)">
+      <node ref="A1" pin="8" pinfunction="A3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(A1-Pad9)">
+      <node ref="A1" pin="9" pinfunction="A4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(A1-Pad10)">
+      <node ref="A1" pin="10" pinfunction="A5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(A1-Pad11)">
+      <node ref="A1" pin="11" pinfunction="SCK/D24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(A1-Pad12)">
+      <node ref="A1" pin="12" pinfunction="MOSI/D23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(A1-Pad13)">
+      <node ref="A1" pin="13" pinfunction="MISO/D22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(A1-Pad14)">
+      <node ref="A1" pin="14" pinfunction="RX/D0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(A1-Pad15)">
+      <node ref="A1" pin="15" pinfunction="TX/D1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(A1-Pad23)">
+      <node ref="A1" pin="23" pinfunction="D11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(A1-Pad24)">
+      <node ref="A1" pin="24" pinfunction="D12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(A1-Pad25)">
+      <node ref="A1" pin="25" pinfunction="D13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(A1-Pad27)">
+      <node ref="A1" pin="27" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(A1-Pad28)">
+      <node ref="A1" pin="28" pinfunction="VBAT" pintype="power_in+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="-" pintype="input+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U4-Pad10)">
+      <node ref="U4" pin="10" pinfunction="+" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
