@@ -52,7 +52,7 @@ Plecs {
   ScriptsDialogGeometry ""
   ScriptsDialogSplitterPos "0"
   Schematic {
-    Location      [0, 26; 1280, 642]
+    Location      [0, 26; 1280, 641]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -187,9 +187,9 @@ Plecs {
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAC"
-"AAAAGQAAAAJAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAAAgAAAGQAAAADAA"
-"AAZAAAAAEAAABkAAABJAAAAAsBAAABAAAAAAAAAAAAAAAAlv////8AAACBAAAAAAAAAAsAAADvAAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
+"wAAAGQAAAABAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAACAAAAGQAAAAJAA"
+"AAZAAAAAIAAABkAAABJAAAAAsBAAABAAAAAAAAAAAAAAAAlv////8AAACBAAAAAAAAAAsAAADvAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
 "AA1AAAAAQAAAAAAAAPoAAAAADU="
@@ -199,7 +199,7 @@ Plecs {
       TimeRange     "0.0"
       ScrollingMode "1"
       SingleTimeAxis "1"
-      Open          "1"
+      Open          "0"
       Ts            "-1"
       SampleLimit   "0"
       XAxisLabel    ""
@@ -385,6 +385,7 @@ Plecs {
       Direction     up
       Flipped       off
       LabelPosition east
+      CommentOut    DisabledOpenCircuit
       Parameter {
         Variable      "R"
         Value         "0.5"
@@ -743,10 +744,25 @@ Plecs {
       Direction     down
       Flipped       off
       LabelPosition east
+      CommentOut    DisabledOpenCircuit
       Parameter {
         Variable      "s"
-        Value         "2"
+        Value         "1"
         Show          off
+      }
+    }
+    Component {
+      Type          DCCurrentSource
+      Name          "I_dc"
+      Show          on
+      Position      [795, 105]
+      Direction     up
+      Flipped       on
+      LabelPosition west
+      Parameter {
+        Variable      "I"
+        Value         "10"
+        Show          on
       }
     }
     Connection {
@@ -808,24 +824,32 @@ Plecs {
     }
     Connection {
       Type          Wire
-      SrcComponent  "Vm1"
+      SrcComponent  "C1"
       SrcTerminal   1
-      Points        [860, 35; 730, 35]
+      Points        [605, 35]
       Branch {
-        Points        [605, 35]
+        Points        [730, 35]
         Branch {
-          DstComponent  "C1"
-          DstTerminal   1
+          Points        [795, 35]
+          Branch {
+            Points        [860, 35]
+            DstComponent  "Vm1"
+            DstTerminal   1
+          }
+          Branch {
+            DstComponent  "I_dc"
+            DstTerminal   1
+          }
         }
         Branch {
-          Points        [520, 35]
-          DstComponent  "Diode\nRectifier"
-          DstTerminal   4
+          DstComponent  "S1"
+          DstTerminal   2
         }
       }
       Branch {
-        DstComponent  "S1"
-        DstTerminal   2
+        Points        [520, 35]
+        DstComponent  "Diode\nRectifier"
+        DstTerminal   4
       }
     }
     Connection {
@@ -844,9 +868,16 @@ Plecs {
           DstTerminal   2
         }
         Branch {
-          Points        [860, 165]
-          DstComponent  "Vm1"
-          DstTerminal   2
+          Points        [795, 165]
+          Branch {
+            Points        [860, 165]
+            DstComponent  "Vm1"
+            DstTerminal   2
+          }
+          Branch {
+            DstComponent  "I_dc"
+            DstTerminal   2
+          }
         }
       }
     }
