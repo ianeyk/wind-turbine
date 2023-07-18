@@ -759,10 +759,9 @@ Plecs {
       Direction     up
       Flipped       on
       LabelPosition west
-      CommentOut    DisabledOpenCircuit
       Parameter {
         Variable      "I"
-        Value         "20"
+        Value         "1"
         Show          on
       }
     }
