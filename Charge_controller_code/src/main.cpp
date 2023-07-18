@@ -2,6 +2,7 @@
 
 #include <Wire.h>
 #include "MCP3X21.h"
+#include "MCP4716.hpp"
 
 #define RELAY 5
 #define LED_1 6
@@ -15,10 +16,12 @@
 // 1001 followed by the custom device address, either 2 or 5
 // in binary, this is 1001 010 and 1001 101
 const uint16_t ADC_ref_voltage = 5 * 1000;  // in mV
-const uint8_t address_02 = 0b1001010;
-const uint8_t address_05 = 0b1001101;
-MCP3021 battery_ADC(address_02);
-MCP3021 current_ADC(address_05);
+const uint8_t ADC_address_02 = 0b1001010;
+const uint8_t ADC_address_05 = 0b1001101;
+const uint8_t DAC_address = 0b1100001; // 0x60;
+MCP3021 battery_ADC(ADC_address_02);
+MCP3021 current_ADC(ADC_address_05);
+MCP4716 current_DAC(DAC_address);
 
 void setup() {
   // put your setup code here, to run once:
@@ -27,6 +30,8 @@ void setup() {
   Wire.begin();
   battery_ADC.init();
   current_ADC.init();
+  current_DAC.setGain(1);
+  current_DAC.setVref(1);
 
   // set pin modes
   pinMode(RELAY, OUTPUT);
@@ -79,5 +84,9 @@ void loop() {
     Serial.println("Current ADC: " + String(raw_current_voltage) + ", mV: " + String(current_voltage));
     Serial.println();
 
-    delay(500);
+    current_DAC.setVout(int(1.25 * 1024 / 5));
+    delay(5000);
+    current_DAC.setVout(int(3.25 * 1024 / 5));
+    delay(5000);
+
 }
