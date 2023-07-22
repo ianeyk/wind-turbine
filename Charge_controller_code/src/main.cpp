@@ -78,15 +78,14 @@ void loop() {
     uint16_t raw_current_voltage = current_ADC.read();
     uint16_t battery_voltage = battery_ADC.toVoltage(raw_battery_voltage, ADC_ref_voltage);
     uint16_t current_voltage = current_ADC.toVoltage(raw_current_voltage, ADC_ref_voltage);
+    uint16_t current = current_voltage / 0.010 / 20 / 5; // delta V / R / 20 gain / 5 gain
 
-    Serial.print("Battery ADC: " + String(raw_battery_voltage) + ", mV: " + String(battery_voltage));
+    Serial.print("Battery ADC: " + String(raw_battery_voltage) + ", voltage: " + String(battery_voltage) + "mV");
     Serial.print("  \t");
-    Serial.println("Current ADC: " + String(raw_current_voltage) + ", mV: " + String(current_voltage));
-    Serial.println();
+    Serial.println("Current ADC: " + String(raw_current_voltage) + ", voltage: " + String(current_voltage) + "mV, current = " + String(current) + "mA");
+    // Serial.println();
 
     current_DAC.setVout(int(1.25 * 1024 / 5));
-    delay(5000);
-    current_DAC.setVout(int(3.25 * 1024 / 5));
-    delay(5000);
+    delay(500);
 
 }
