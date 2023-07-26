@@ -74,6 +74,7 @@ void loop() {
   // digitalWrite(LED_ONBOARD_2, LOW);
   // delay(1000);
 
+    current_DAC.setVout(int(1.25 * 1024 / 5));
     uint16_t raw_battery_voltage = battery_ADC.read();
     uint16_t raw_current_voltage = current_ADC.read();
     uint16_t battery_voltage = battery_ADC.toVoltage(raw_battery_voltage, ADC_ref_voltage);
@@ -85,7 +86,7 @@ void loop() {
     Serial.println("Current ADC: " + String(raw_current_voltage) + ", voltage: " + String(current_voltage) + "mV, current = " + String(current) + "mA");
     // Serial.println();
 
-    current_DAC.setVout(int(1.25 * 1024 / 5));
+    // current_DAC.setVout(int(0 * 1024 / 5));
     delay(500);
 
 }
