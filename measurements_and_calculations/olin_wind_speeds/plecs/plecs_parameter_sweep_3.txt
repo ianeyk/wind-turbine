@@ -1,0 +1,2905 @@
+
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 50rpm, power = 3222.09W
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 100rpm, power = 5259.38W
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 150rpm, power = 5956.88W
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 200rpm, power = 6246.84W
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 250rpm, power = 6390.83W
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 300rpm, power = 6471.86W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 50rpm, power = 3397.59W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 100rpm, power = 5974.77W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 150rpm, power = 6951.19W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 200rpm, power = 7372.91W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 250rpm, power = 7585.93W
+Kt =  24
+Imax =  187
+
+RL = 1.2ohms, wr = 300rpm, power = 7706.88W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 50rpm, power = 3490.48W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 100rpm, power = 6578.34W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 150rpm, power = 7867.18W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 200rpm, power = 8446.37W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 250rpm, power = 8744.34W
+Kt =  24
+Imax =  187
+
+RL = 1.4ohms, wr = 300rpm, power = 8915.18W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 50rpm, power = 3523.79W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 100rpm, power = 7077.74W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 150rpm, power = 8703.24W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 200rpm, power = 9463.98W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 250rpm, power = 9863.01W
+Kt =  24
+Imax =  187
+
+RL = 1.6ohms, wr = 300rpm, power = 10094.2W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 50rpm, power = 3515.02W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 100rpm, power = 7482.26W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 150rpm, power = 9459.37W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 200rpm, power = 10423.4W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 250rpm, power = 10939.4W
+Kt =  24
+Imax =  187
+
+RL = 1.8ohms, wr = 300rpm, power = 11241.7W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 50rpm, power = 3477.14W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 100rpm, power = 7802.04W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 150rpm, power = 10136.9W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 200rpm, power = 11322.9W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 250rpm, power = 11971.2W
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 300rpm, power = 12355.5W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 50rpm, power = 3419.6W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 100rpm, power = 8047.28W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 150rpm, power = 10738.4W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 200rpm, power = 12161.9W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 250rpm, power = 12956.9W
+Kt =  24
+Imax =  187
+
+RL = 2.2ohms, wr = 300rpm, power = 13433.9W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 50rpm, power = 3349.24W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 100rpm, power = 8227.86W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 150rpm, power = 11267.1W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 200rpm, power = 12940.1W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 250rpm, power = 13895.1W
+Kt =  24
+Imax =  187
+
+RL = 2.4ohms, wr = 300rpm, power = 14475.3W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 50rpm, power = 3270.95W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 100rpm, power = 8352.99W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 150rpm, power = 11727.1W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 200rpm, power = 13658.1W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 250rpm, power = 14784.9W
+Kt =  24
+Imax =  187
+
+RL = 2.6ohms, wr = 300rpm, power = 15478.6W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 50rpm, power = 3188.2W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 100rpm, power = 8431.04W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 150rpm, power = 12122.7W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 200rpm, power = 14316.9W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 250rpm, power = 15625.9W
+Kt =  24
+Imax =  187
+
+RL = 2.8ohms, wr = 300rpm, power = 16442.6W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 50rpm, power = 3103.45W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 100rpm, power = 8469.47W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 150rpm, power = 12458.7W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 200rpm, power = 14917.9W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 250rpm, power = 16418W
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 300rpm, power = 17366.5W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 50rpm, power = 3018.41W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 100rpm, power = 8474.87W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 150rpm, power = 12739.6W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 200rpm, power = 15463.2W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 250rpm, power = 17161.3W
+Kt =  24
+Imax =  187
+
+RL = 3.2ohms, wr = 300rpm, power = 18249.9W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 50rpm, power = 2934.27W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 100rpm, power = 8452.94W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 150rpm, power = 12970.4W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 200rpm, power = 15954.7W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 250rpm, power = 17856.3W
+Kt =  24
+Imax =  187
+
+RL = 3.4ohms, wr = 300rpm, power = 19092.5W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 50rpm, power = 2851.83W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 100rpm, power = 8408.59W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 150rpm, power = 13155.5W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 200rpm, power = 16394.9W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 250rpm, power = 18503.9W
+Kt =  24
+Imax =  187
+
+RL = 3.6ohms, wr = 300rpm, power = 19894W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 50rpm, power = 2771.62W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 100rpm, power = 8346.03W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 150rpm, power = 13299.4W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 200rpm, power = 16786.4W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 250rpm, power = 19104.9W
+Kt =  24
+Imax =  187
+
+RL = 3.8ohms, wr = 300rpm, power = 20654.6W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 50rpm, power = 2693.97W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 100rpm, power = 8268.8W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 150rpm, power = 13406.3W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 200rpm, power = 17131.8W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 250rpm, power = 19660.7W
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 300rpm, power = 21374.5W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 50rpm, power = 2619.07W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 100rpm, power = 8179.92W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 150rpm, power = 13480.2W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 200rpm, power = 17433.9W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 250rpm, power = 20172.4W
+Kt =  24
+Imax =  187
+
+RL = 4.2ohms, wr = 300rpm, power = 22054.3W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 50rpm, power = 2547.02W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 100rpm, power = 8081.92W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 150rpm, power = 13524.5W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 200rpm, power = 17695.3W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 250rpm, power = 20641.7W
+Kt =  24
+Imax =  187
+
+RL = 4.4ohms, wr = 300rpm, power = 22694.4W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 50rpm, power = 2477.82W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 100rpm, power = 7976.91W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 150rpm, power = 13542.8W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 200rpm, power = 17918.8W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 250rpm, power = 21070.1W
+Kt =  24
+Imax =  187
+
+RL = 4.6ohms, wr = 300rpm, power = 23295.5W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 50rpm, power = 2411.47W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 100rpm, power = 7866.66W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 150rpm, power = 13538.1W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 200rpm, power = 18107.1W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 250rpm, power = 21459.3W
+Kt =  24
+Imax =  187
+
+RL = 4.8ohms, wr = 300rpm, power = 23858.6W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 50rpm, power = 2347.88W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 100rpm, power = 7752.64W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 150rpm, power = 13513.2W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 200rpm, power = 18262.7W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 250rpm, power = 21810.9W
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 300rpm, power = 24384.4W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 50rpm, power = 2286.99W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 100rpm, power = 7636.05W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 150rpm, power = 13470.6W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 200rpm, power = 18388.1W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 250rpm, power = 22126.8W
+Kt =  24
+Imax =  187
+
+RL = 5.2ohms, wr = 300rpm, power = 24874W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 50rpm, power = 2228.68W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 100rpm, power = 7517.9W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 150rpm, power = 13412.6W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 200rpm, power = 18485.7W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 250rpm, power = 22408.7W
+Kt =  24
+Imax =  187
+
+RL = 5.4ohms, wr = 300rpm, power = 25328.5W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 50rpm, power = 2172.87W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 100rpm, power = 7399.01W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 150rpm, power = 13341.3W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 200rpm, power = 18557.7W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 250rpm, power = 22658.3W
+Kt =  24
+Imax =  187
+
+RL = 5.6ohms, wr = 300rpm, power = 25749W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 50rpm, power = 2119.42W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 100rpm, power = 7280.07W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 150rpm, power = 13258.5W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 200rpm, power = 18606.4W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 250rpm, power = 22877.5W
+Kt =  24
+Imax =  187
+
+RL = 5.8ohms, wr = 300rpm, power = 26136.6W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 50rpm, power = 2068.24W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 100rpm, power = 7161.61W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 150rpm, power = 13165.9W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 200rpm, power = 18633.7W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 250rpm, power = 23068W
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 300rpm, power = 26492.6W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 50rpm, power = 2019.22W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 100rpm, power = 7044.08W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 150rpm, power = 13064.9W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 200rpm, power = 18641.6W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 250rpm, power = 23231.4W
+Kt =  24
+Imax =  187
+
+RL = 6.2ohms, wr = 300rpm, power = 26818.2W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 50rpm, power = 1972.23W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 100rpm, power = 6927.83W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 150rpm, power = 12956.8W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 200rpm, power = 18631.8W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 250rpm, power = 23369.4W
+Kt =  24
+Imax =  187
+
+RL = 6.4ohms, wr = 300rpm, power = 27114.7W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 50rpm, power = 1927.19W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 100rpm, power = 6813.16W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 150rpm, power = 12842.8W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 200rpm, power = 18605.9W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 250rpm, power = 23483.6W
+Kt =  24
+Imax =  187
+
+RL = 6.6ohms, wr = 300rpm, power = 27383.2W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 50rpm, power = 1884W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 100rpm, power = 6700.27W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 150rpm, power = 12723.9W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 200rpm, power = 18565.6W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 250rpm, power = 23575.6W
+Kt =  24
+Imax =  187
+
+RL = 6.8ohms, wr = 300rpm, power = 27625W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 50rpm, power = 1842.54W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 100rpm, power = 6589.34W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 150rpm, power = 12601W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 200rpm, power = 18512.3W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 250rpm, power = 23646.7W
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 300rpm, power = 27841.3W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 50rpm, power = 1802.74W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 100rpm, power = 6480.49W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 150rpm, power = 12474.9W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 200rpm, power = 18447.2W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 250rpm, power = 23698.5W
+Kt =  24
+Imax =  187
+
+RL = 7.2ohms, wr = 300rpm, power = 28033.4W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 50rpm, power = 1764.51W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 100rpm, power = 6373.83W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 150rpm, power = 12346.4W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 200rpm, power = 18371.6W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 250rpm, power = 23732.2W
+Kt =  24
+Imax =  187
+
+RL = 7.4ohms, wr = 300rpm, power = 28202.4W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 50rpm, power = 1727.77W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 100rpm, power = 6269.42W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 150rpm, power = 12215.9W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 200rpm, power = 18286.6W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 250rpm, power = 23749.2W
+Kt =  24
+Imax =  187
+
+RL = 7.6ohms, wr = 300rpm, power = 28349.5W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 50rpm, power = 1692.43W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 100rpm, power = 6167.29W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 150rpm, power = 12084.1W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 200rpm, power = 18193.2W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 250rpm, power = 23750.7W
+Kt =  24
+Imax =  187
+
+RL = 7.8ohms, wr = 300rpm, power = 28475.9W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 50rpm, power = 1658.43W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 100rpm, power = 6067.47W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 150rpm, power = 11951.5W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 200rpm, power = 18092.4W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 250rpm, power = 23737.9W
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 300rpm, power = 28582.6W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 50rpm, power = 1625.7W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 100rpm, power = 5969.96W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 150rpm, power = 11818.4W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 200rpm, power = 17985.1W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 250rpm, power = 23711.7W
+Kt =  24
+Imax =  187
+
+RL = 8.2ohms, wr = 300rpm, power = 28670.8W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 50rpm, power = 1594.17W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 100rpm, power = 5874.76W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 150rpm, power = 11685.2W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 200rpm, power = 17872W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 250rpm, power = 23673.4W
+Kt =  24
+Imax =  187
+
+RL = 8.4ohms, wr = 300rpm, power = 28741.4W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 50rpm, power = 1563.79W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 100rpm, power = 5781.84W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 150rpm, power = 11552.3W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 200rpm, power = 17753.9W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 250rpm, power = 23623.8W
+Kt =  24
+Imax =  187
+
+RL = 8.6ohms, wr = 300rpm, power = 28795.5W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 50rpm, power = 1534.49W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 100rpm, power = 5691.18W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 150rpm, power = 11419.8W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 200rpm, power = 17631.3W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 250rpm, power = 23563.8W
+Kt =  24
+Imax =  187
+
+RL = 8.8ohms, wr = 300rpm, power = 28834W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 50rpm, power = 1506.22W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 100rpm, power = 5602.75W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 150rpm, power = 11288W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 200rpm, power = 17505.1W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 250rpm, power = 23494.4W
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 300rpm, power = 28857.8W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 50rpm, power = 1478.93W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 100rpm, power = 5516.5W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 150rpm, power = 11157.2W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 200rpm, power = 17375.6W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 250rpm, power = 23416.3W
+Kt =  24
+Imax =  187
+
+RL = 9.2ohms, wr = 300rpm, power = 28868W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 50rpm, power = 1452.58W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 100rpm, power = 5432.4W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 150rpm, power = 11027.5W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 200rpm, power = 17243.3W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 250rpm, power = 23330.2W
+Kt =  24
+Imax =  187
+
+RL = 9.4ohms, wr = 300rpm, power = 28865.2W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 50rpm, power = 1427.12W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 100rpm, power = 5350.39W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 150rpm, power = 10898.9W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 200rpm, power = 17108.8W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 250rpm, power = 23236.9W
+Kt =  24
+Imax =  187
+
+RL = 9.6ohms, wr = 300rpm, power = 28850.3W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 50rpm, power = 1402.5W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 100rpm, power = 5270.43W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 150rpm, power = 10771.8W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 200rpm, power = 16972.5W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 250rpm, power = 23137.1W
+Kt =  24
+Imax =  187
+
+RL = 9.8ohms, wr = 300rpm, power = 28824.1W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 50rpm, power = 1378.69W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 100rpm, power = 5192.47W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 150rpm, power = 10646.1W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 200rpm, power = 16834.6W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 250rpm, power = 23031.2W
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 300rpm, power = 28787.3W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 50rpm, power = 1355.65W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 100rpm, power = 5116.45W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 150rpm, power = 10522W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 200rpm, power = 16695.6W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 250rpm, power = 22920W
+Kt =  24
+Imax =  187
+
+RL = 10.2ohms, wr = 300rpm, power = 28740.7W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 50rpm, power = 1333.34W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 100rpm, power = 5042.33W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 150rpm, power = 10399.5W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 200rpm, power = 16555.7W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 250rpm, power = 22804W
+Kt =  24
+Imax =  187
+
+RL = 10.4ohms, wr = 300rpm, power = 28684.8W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 50rpm, power = 1311.74W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 100rpm, power = 4970.06W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 150rpm, power = 10278.6W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 200rpm, power = 16415.2W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 250rpm, power = 22683.6W
+Kt =  24
+Imax =  187
+
+RL = 10.6ohms, wr = 300rpm, power = 28620.4W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 50rpm, power = 1290.8W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 100rpm, power = 4899.57W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 150rpm, power = 10159.5W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 200rpm, power = 16274.4W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 250rpm, power = 22559.3W
+Kt =  24
+Imax =  187
+
+RL = 10.8ohms, wr = 300rpm, power = 28548W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 50rpm, power = 1270.51W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 100rpm, power = 4830.83W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 150rpm, power = 10042.1W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 200rpm, power = 16133.5W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 250rpm, power = 22431.5W
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 300rpm, power = 28468.2W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 50rpm, power = 1250.82W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 100rpm, power = 4763.78W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 150rpm, power = 9926.5W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 200rpm, power = 15992.7W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 250rpm, power = 22300.6W
+Kt =  24
+Imax =  187
+
+RL = 11.2ohms, wr = 300rpm, power = 28381.6W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 50rpm, power = 1231.73W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 100rpm, power = 4698.36W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 150rpm, power = 9812.69W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 200rpm, power = 15852.2W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 250rpm, power = 22167.1W
+Kt =  24
+Imax =  187
+
+RL = 11.4ohms, wr = 300rpm, power = 28288.6W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 50rpm, power = 1213.19W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 100rpm, power = 4634.54W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 150rpm, power = 9700.69W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 200rpm, power = 15712W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 250rpm, power = 22031.1W
+Kt =  24
+Imax =  187
+
+RL = 11.6ohms, wr = 300rpm, power = 28189.8W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 50rpm, power = 1195.19W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 100rpm, power = 4572.26W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 150rpm, power = 9590.5W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 200rpm, power = 15572.5W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 250rpm, power = 21893.2W
+Kt =  24
+Imax =  187
+
+RL = 11.8ohms, wr = 300rpm, power = 28085.5W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 50rpm, power = 1177.71W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 100rpm, power = 4511.48W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 150rpm, power = 9482.11W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 200rpm, power = 15433.7W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 250rpm, power = 21753.4W
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 300rpm, power = 27976.3W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 50rpm, power = 1160.71W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 100rpm, power = 4452.15W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 150rpm, power = 9375.53W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 200rpm, power = 15295.6W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 250rpm, power = 21612.2W
+Kt =  24
+Imax =  187
+
+RL = 12.2ohms, wr = 300rpm, power = 27862.5W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 50rpm, power = 1144.2W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 100rpm, power = 4394.23W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 150rpm, power = 9270.73W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 200rpm, power = 15158.5W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 250rpm, power = 21469.7W
+Kt =  24
+Imax =  187
+
+RL = 12.4ohms, wr = 300rpm, power = 27744.5W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 50rpm, power = 1128.13W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 100rpm, power = 4337.67W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 150rpm, power = 9167.72W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 200rpm, power = 15022.4W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 250rpm, power = 21326.2W
+Kt =  24
+Imax =  187
+
+RL = 12.6ohms, wr = 300rpm, power = 27622.6W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 50rpm, power = 1112.5W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 100rpm, power = 4282.44W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 150rpm, power = 9066.47W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 200rpm, power = 14887.3W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 250rpm, power = 21181.8W
+Kt =  24
+Imax =  187
+
+RL = 12.8ohms, wr = 300rpm, power = 27497.3W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 50rpm, power = 1097.3W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 100rpm, power = 4228.49W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 150rpm, power = 8966.96W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 200rpm, power = 14753.4W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 250rpm, power = 21036.9W
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 300rpm, power = 27368.8W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 50rpm, power = 1082.49W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 100rpm, power = 4175.78W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 150rpm, power = 8869.17W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 200rpm, power = 14620.7W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 250rpm, power = 20891.5W
+Kt =  24
+Imax =  187
+
+RL = 13.2ohms, wr = 300rpm, power = 27237.4W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 50rpm, power = 1068.07W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 100rpm, power = 4124.28W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 150rpm, power = 8773.08W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 200rpm, power = 14489.3W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 250rpm, power = 20745.9W
+Kt =  24
+Imax =  187
+
+RL = 13.4ohms, wr = 300rpm, power = 27103.3W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 50rpm, power = 1054.03W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 100rpm, power = 4073.95W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 150rpm, power = 8678.67W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 200rpm, power = 14359.2W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 250rpm, power = 20600.1W
+Kt =  24
+Imax =  187
+
+RL = 13.6ohms, wr = 300rpm, power = 26967W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 50rpm, power = 1040.34W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 100rpm, power = 4024.75W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 150rpm, power = 8585.91W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 200rpm, power = 14230.4W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 250rpm, power = 20454.4W
+Kt =  24
+Imax =  187
+
+RL = 13.8ohms, wr = 300rpm, power = 26828.5W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 50rpm, power = 1027W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 100rpm, power = 3976.64W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 150rpm, power = 8494.77W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 200rpm, power = 14102.9W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 250rpm, power = 20308.8W
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 300rpm, power = 26688.2W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 50rpm, power = 1013.99W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 100rpm, power = 3929.61W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 150rpm, power = 8405.24W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 200rpm, power = 13976.9W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 250rpm, power = 20163.4W
+Kt =  24
+Imax =  187
+
+RL = 14.2ohms, wr = 300rpm, power = 26546.2W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 50rpm, power = 1001.3W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 100rpm, power = 3883.61W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 150rpm, power = 8317.28W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 200rpm, power = 13852.3W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 250rpm, power = 20018.4W
+Kt =  24
+Imax =  187
+
+RL = 14.4ohms, wr = 300rpm, power = 26402.7W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 50rpm, power = 988.922W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 100rpm, power = 3838.61W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 150rpm, power = 8230.87W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 200rpm, power = 13729.1W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 250rpm, power = 19874W
+Kt =  24
+Imax =  187
+
+RL = 14.6ohms, wr = 300rpm, power = 26258.1W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 50rpm, power = 976.841W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 100rpm, power = 3794.59W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 150rpm, power = 8145.97W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 200rpm, power = 13607.4W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 250rpm, power = 19730.1W
+Kt =  24
+Imax =  187
+
+RL = 14.8ohms, wr = 300rpm, power = 26112.5W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 50rpm, power = 965.048W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 100rpm, power = 3751.51W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 150rpm, power = 8062.57W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 200rpm, power = 13487.2W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 250rpm, power = 19586.8W
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 300rpm, power = 25966W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 50rpm, power = 953.532W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 100rpm, power = 3709.35W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 150rpm, power = 7980.62W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 200rpm, power = 13368.4W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 250rpm, power = 19444.3W
+Kt =  24
+Imax =  187
+
+RL = 15.2ohms, wr = 300rpm, power = 25818.7W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 50rpm, power = 942.284W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 100rpm, power = 3668.07W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 150rpm, power = 7900.11W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 200rpm, power = 13251.1W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 250rpm, power = 19302.5W
+Kt =  24
+Imax =  187
+
+RL = 15.4ohms, wr = 300rpm, power = 25670.8W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 50rpm, power = 931.296W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 100rpm, power = 3627.66W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 150rpm, power = 7821W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 200rpm, power = 13135.2W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 250rpm, power = 19161.6W
+Kt =  24
+Imax =  187
+
+RL = 15.6ohms, wr = 300rpm, power = 25522.5W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 50rpm, power = 920.558W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 100rpm, power = 3588.09W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 150rpm, power = 7743.26W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 200rpm, power = 13020.8W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 250rpm, power = 19021.6W
+Kt =  24
+Imax =  187
+
+RL = 15.8ohms, wr = 300rpm, power = 25373.8W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 50rpm, power = 910.061W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 100rpm, power = 3549.33W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 150rpm, power = 7666.88W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 200rpm, power = 12907.9W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 250rpm, power = 18882.5W
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 300rpm, power = 25224.9W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 50rpm, power = 899.799W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 100rpm, power = 3511.37W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 150rpm, power = 7591.81W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 200rpm, power = 12796.4W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 250rpm, power = 18744.4W
+Kt =  24
+Imax =  187
+
+RL = 16.2ohms, wr = 300rpm, power = 25075.8W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 50rpm, power = 889.763W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 100rpm, power = 3474.17W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 150rpm, power = 7518.04W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 200rpm, power = 12686.4W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 250rpm, power = 18607.3W
+Kt =  24
+Imax =  187
+
+RL = 16.4ohms, wr = 300rpm, power = 24926.8W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 50rpm, power = 879.945W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 100rpm, power = 3437.71W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 150rpm, power = 7445.53W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 200rpm, power = 12577.9W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 250rpm, power = 18471.2W
+Kt =  24
+Imax =  187
+
+RL = 16.6ohms, wr = 300rpm, power = 24777.9W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 50rpm, power = 870.34W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 100rpm, power = 3401.99W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 150rpm, power = 7374.27W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 200rpm, power = 12470.7W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 250rpm, power = 18336.3W
+Kt =  24
+Imax =  187
+
+RL = 16.8ohms, wr = 300rpm, power = 24629.1W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 50rpm, power = 860.94W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 100rpm, power = 3366.97W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 150rpm, power = 7304.22W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 200rpm, power = 12365W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 250rpm, power = 18202.5W
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 300rpm, power = 24480.6W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 50rpm, power = 851.739W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 100rpm, power = 3332.63W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 150rpm, power = 7235.35W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 200rpm, power = 12260.7W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 250rpm, power = 18069.8W
+Kt =  24
+Imax =  187
+
+RL = 17.2ohms, wr = 300rpm, power = 24332.4W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 50rpm, power = 842.731W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 100rpm, power = 3298.96W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 150rpm, power = 7167.65W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 200rpm, power = 12157.8W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 250rpm, power = 17938.2W
+Kt =  24
+Imax =  187
+
+RL = 17.4ohms, wr = 300rpm, power = 24184.6W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 50rpm, power = 833.909W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 100rpm, power = 3265.94W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 150rpm, power = 7101.09W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 200rpm, power = 12056.2W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 250rpm, power = 17807.9W
+Kt =  24
+Imax =  187
+
+RL = 17.6ohms, wr = 300rpm, power = 24037.3W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 50rpm, power = 825.269W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 100rpm, power = 3233.55W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 150rpm, power = 7035.65W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 200rpm, power = 11956W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 250rpm, power = 17678.7W
+Kt =  24
+Imax =  187
+
+RL = 17.8ohms, wr = 300rpm, power = 23890.5W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 50rpm, power = 816.804W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 100rpm, power = 3201.78W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 150rpm, power = 6971.29W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 200rpm, power = 11857.2W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 250rpm, power = 17550.8W
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 300rpm, power = 23744.2W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 50rpm, power = 808.509W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 100rpm, power = 3170.6W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 150rpm, power = 6908W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 200rpm, power = 11759.7W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 250rpm, power = 17424W
+Kt =  24
+Imax =  187
+
+RL = 18.2ohms, wr = 300rpm, power = 23598.6W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 50rpm, power = 800.38W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 100rpm, power = 3140W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 150rpm, power = 6845.75W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 200rpm, power = 11663.5W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 250rpm, power = 17298.5W
+Kt =  24
+Imax =  187
+
+RL = 18.4ohms, wr = 300rpm, power = 23453.7W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 50rpm, power = 792.411W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 100rpm, power = 3109.96W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 150rpm, power = 6784.53W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 200rpm, power = 11568.7W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 250rpm, power = 17174.1W
+Kt =  24
+Imax =  187
+
+RL = 18.6ohms, wr = 300rpm, power = 23309.4W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 50rpm, power = 784.598W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 100rpm, power = 3080.48W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 150rpm, power = 6724.3W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 200rpm, power = 11475.1W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 250rpm, power = 17051W
+Kt =  24
+Imax =  187
+
+RL = 18.8ohms, wr = 300rpm, power = 23165.9W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 50rpm, power = 776.936W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 100rpm, power = 3051.54W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 150rpm, power = 6665.06W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 200rpm, power = 11382.8W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 250rpm, power = 16929.2W
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 300rpm, power = 23023.2W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 50rpm, power = 769.421W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 100rpm, power = 3023.11W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 150rpm, power = 6606.77W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 200rpm, power = 11291.7W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 250rpm, power = 16808.5W
+Kt =  24
+Imax =  187
+
+RL = 19.2ohms, wr = 300rpm, power = 22881.4W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 50rpm, power = 762.049W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 100rpm, power = 2995.2W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 150rpm, power = 6549.41W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 200rpm, power = 11201.8W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 250rpm, power = 16689.1W
+Kt =  24
+Imax =  187
+
+RL = 19.4ohms, wr = 300rpm, power = 22740.3W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 50rpm, power = 754.816W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 100rpm, power = 2967.78W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 150rpm, power = 6492.98W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 200rpm, power = 11113.2W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 250rpm, power = 16570.9W
+Kt =  24
+Imax =  187
+
+RL = 19.6ohms, wr = 300rpm, power = 22600.1W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 50rpm, power = 747.718W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 100rpm, power = 2940.84W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 150rpm, power = 6437.44W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 200rpm, power = 11025.7W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 250rpm, power = 16454W
+Kt =  24
+Imax =  187
+
+RL = 19.8ohms, wr = 300rpm, power = 22460.8W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 50rpm, power = 740.751W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 100rpm, power = 2914.38W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 150rpm, power = 6382.78W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 200rpm, power = 10939.5W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 250rpm, power = 16338.2W
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 300rpm, power = 22322.4W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 50rpm, power = 733.912W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 100rpm, power = 2888.37W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 150rpm, power = 6328.97W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 200rpm, power = 10854.3W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 250rpm, power = 16223.7W
+Kt =  24
+Imax =  187
+
+RL = 20.2ohms, wr = 300rpm, power = 22184.9W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 50rpm, power = 727.197W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 100rpm, power = 2862.81W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 150rpm, power = 6276.01W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 200rpm, power = 10770.4W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 250rpm, power = 16110.3W
+Kt =  24
+Imax =  187
+
+RL = 20.4ohms, wr = 300rpm, power = 22048.3W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 50rpm, power = 720.603W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 100rpm, power = 2837.69W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 150rpm, power = 6223.87W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 200rpm, power = 10687.5W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 250rpm, power = 15998.2W
+Kt =  24
+Imax =  187
+
+RL = 20.6ohms, wr = 300rpm, power = 21912.6W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 50rpm, power = 714.127W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 100rpm, power = 2812.99W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 150rpm, power = 6172.53W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 200rpm, power = 10605.8W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 250rpm, power = 15887.2W
+Kt =  24
+Imax =  187
+
+RL = 20.8ohms, wr = 300rpm, power = 21777.9W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 50rpm, power = 707.766W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 100rpm, power = 2788.71W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 150rpm, power = 6121.98W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 200rpm, power = 10525.1W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 250rpm, power = 15777.3W
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 300rpm, power = 21644W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 50rpm, power = 701.516W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 100rpm, power = 2764.84W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 150rpm, power = 6072.2W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 200rpm, power = 10445.5W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 250rpm, power = 15668.6W
+Kt =  24
+Imax =  187
+
+RL = 21.2ohms, wr = 300rpm, power = 21511.1W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 50rpm, power = 695.374W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 100rpm, power = 2741.36W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 150rpm, power = 6023.18W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 200rpm, power = 10367W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 250rpm, power = 15561.1W
+Kt =  24
+Imax =  187
+
+RL = 21.4ohms, wr = 300rpm, power = 21379.1W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 50rpm, power = 689.339W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 100rpm, power = 2718.26W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 150rpm, power = 5974.89W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 200rpm, power = 10289.4W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 250rpm, power = 15454.6W
+Kt =  24
+Imax =  187
+
+RL = 21.6ohms, wr = 300rpm, power = 21248.7W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 50rpm, power = 683.406W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 100rpm, power = 2695.54W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 150rpm, power = 5927.32W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 200rpm, power = 10212.9W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 250rpm, power = 15349.3W
+Kt =  24
+Imax =  187
+
+RL = 21.8ohms, wr = 300rpm, power = 21119.5W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 50rpm, power = 677.575W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 100rpm, power = 2673.19W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 150rpm, power = 5880.46W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 200rpm, power = 10137.3W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 250rpm, power = 15245W
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 300rpm, power = 20991.4W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 50rpm, power = 671.841W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 100rpm, power = 2651.2W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 150rpm, power = 5834.3W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 200rpm, power = 10062.8W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 250rpm, power = 15142.3W
+Kt =  24
+Imax =  187
+
+RL = 22.2ohms, wr = 300rpm, power = 20864.3W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 50rpm, power = 666.203W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 100rpm, power = 2629.55W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 150rpm, power = 5788.8W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 200rpm, power = 9989.12W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 250rpm, power = 15040.7W
+Kt =  24
+Imax =  187
+
+RL = 22.4ohms, wr = 300rpm, power = 20738.2W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 50rpm, power = 660.659W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 100rpm, power = 2608.25W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 150rpm, power = 5743.97W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 200rpm, power = 9916.46W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 250rpm, power = 14940.3W
+Kt =  24
+Imax =  187
+
+RL = 22.6ohms, wr = 300rpm, power = 20613.3W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 50rpm, power = 655.205W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 100rpm, power = 2587.29W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 150rpm, power = 5699.78W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 200rpm, power = 9844.9W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 250rpm, power = 14840.9W
+Kt =  24
+Imax =  187
+
+RL = 22.8ohms, wr = 300rpm, power = 20489.4W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 50rpm, power = 649.84W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 100rpm, power = 2566.65W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 150rpm, power = 5656.21W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 200rpm, power = 9774.28W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 250rpm, power = 14742.6W
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 300rpm, power = 20366.6W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 50rpm, power = 644.561W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 100rpm, power = 2546.32W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 150rpm, power = 5613.29W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 200rpm, power = 9704.56W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 250rpm, power = 14645.5W
+Kt =  24
+Imax =  187
+
+RL = 23.2ohms, wr = 300rpm, power = 20244.8W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 50rpm, power = 639.367W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 100rpm, power = 2526.31W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 150rpm, power = 5571.03W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 200rpm, power = 9635.75W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 250rpm, power = 14549.3W
+Kt =  24
+Imax =  187
+
+RL = 23.4ohms, wr = 300rpm, power = 20124.1W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 50rpm, power = 634.256W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 100rpm, power = 2506.61W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 150rpm, power = 5529.38W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 200rpm, power = 9567.82W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 250rpm, power = 14454.3W
+Kt =  24
+Imax =  187
+
+RL = 23.6ohms, wr = 300rpm, power = 20004W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 50rpm, power = 629.225W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 100rpm, power = 2487.2W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 150rpm, power = 5488.32W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 200rpm, power = 9500.75W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 250rpm, power = 14360.3W
+Kt =  24
+Imax =  187
+
+RL = 23.8ohms, wr = 300rpm, power = 19887.5W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 50rpm, power = 624.273W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 100rpm, power = 2468.09W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 150rpm, power = 5447.84W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 200rpm, power = 9434.54W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 250rpm, power = 14267.3W
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 300rpm, power = 19769.1W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 50rpm, power = 619.398W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 100rpm, power = 2449.27W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 150rpm, power = 5407.92W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 200rpm, power = 9369.17W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 250rpm, power = 14175.3W
+Kt =  24
+Imax =  187
+
+RL = 24.2ohms, wr = 300rpm, power = 19653.3W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 50rpm, power = 614.598W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 100rpm, power = 2430.73W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 150rpm, power = 5368.56W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 200rpm, power = 9304.63W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 250rpm, power = 14084.4W
+Kt =  24
+Imax =  187
+
+RL = 24.4ohms, wr = 300rpm, power = 19535.3W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 50rpm, power = 609.872W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 100rpm, power = 2412.47W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 150rpm, power = 5329.74W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 200rpm, power = 9240.9W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 250rpm, power = 13994.4W
+Kt =  24
+Imax =  187
+
+RL = 24.6ohms, wr = 300rpm, power = 19423.3W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 50rpm, power = 605.218W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 100rpm, power = 2394.47W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 150rpm, power = 5291.46W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 200rpm, power = 9177.97W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 250rpm, power = 13905.5W
+Kt =  24
+Imax =  187
+
+RL = 24.8ohms, wr = 300rpm, power = 19309.1W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 50rpm, power = 600.634W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 100rpm, power = 2376.74W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 150rpm, power = 5253.71W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 200rpm, power = 9115.82W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 250rpm, power = 13817.5W
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 300rpm, power = 19194.9W
