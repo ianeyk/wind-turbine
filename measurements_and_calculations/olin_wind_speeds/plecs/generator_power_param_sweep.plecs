@@ -51,7 +51,7 @@ Plecs {
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
   ScriptsDialogGeometry "[345 342 1499 631]"
-  ScriptsDialogSplitterPos "107"
+  ScriptsDialogSplitterPos "46"
   Terminal {
     Type          Output
     Index         "1"
@@ -554,9 +554,9 @@ Plecs {
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
-"AAAAJYAAAAJAAAAlgAAAAgAAACWAAAAAwAAAJYAAAACAAAAlgAAAAEAAACWAAAABwAAAJYAAAAGAA"
-"AAlgAAAAUAAACWAAABCgAAAAsBAAABAAAAAAAAAAAAAAAAlv////8AAACBAAAAAAAAAAsAAADVAAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAC"
+"AAAAJYAAAAJAAAAlgAAAAYAAACWAAAABwAAAJYAAAAEAAAAlgAAAAUAAACWAAAAAgAAAJYAAAADAA"
+"AAlgAAAAEAAACWAAABCgAAAAsBAAABAAAAAAAAAAAAAAAAlv////8AAACBAAAAAAAAAAsAAADVAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
 "AA1AAAAAQAAAAAAAAPoAAAAADU="
@@ -565,7 +565,7 @@ Plecs {
       TimeRange     "0.0"
       ScrollingMode "1"
       SingleTimeAxis "1"
-      Open          "1"
+      Open          "0"
       Ts            "-1"
       SampleLimit   "0"
       XAxisLabel    "Time / s"
@@ -807,9 +807,14 @@ Plecs {
       }
     }
     Annotation {
-      Name          "<html><body>\n<p>Motor parameters are configured in Simul"
-"ation-&gt;Simulation Parameters...-&gt;Initialization</p></body></html>"
-      Position      [335, 435]
+      Name          "<html><body>\n<p>Parameter sweep is configured in Simulat"
+"ion-&gt;Simulation Scripts</p></body></html>"
+      Position      [480, 280]
+    } 
+    Annotation {
+      Name          "<html><body>\n<p>2 Dimensional parameter sweep of dump lo"
+"ad resistance values (RL1 = RL2 = RL3) and wind speed</p></body></html>"
+      Position      [510, 255]
     } 
   }
   Script {
@@ -827,8 +832,8 @@ Plecs {
 "cols] = size(output.Values(1,:));   % determine number of row and column in s"
 "tructure\n    [finalValue] = output.Values(1, ncols); % % determine last valu"
 "e of inductor current in this run\n    % Output the last value of Inductor Cu"
-"rrent in current run  \n    printf('RL = %dohms, wr = %drad/s, power = %dW', "
-"RVals(ix), wVals(jx), finalValue);\n    plecs('scope', scopepath, 'HoldTrace'"
-", ['R = ' mat2str(RVals(ix)) ' ohms']);\n  end\nend"
+"rrent in current run  \n    printf('RL = %dohms, wr = %drpm, power = %dW', RV"
+"als(ix), wVals(jx), finalValue);\n    plecs('scope', scopepath, 'HoldTrace', "
+"['R = ' mat2str(RVals(ix)) ' ohms']);\n  end\nend"
   }
 }
