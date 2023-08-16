@@ -1,0 +1,1177 @@
+
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 50rpm, power = 3222.09W, voltage = 46.3002V
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 100rpm, power = 5259.38W, voltage = 59.2225V
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 150rpm, power = 5956.88W, voltage = 63.0179V
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 200rpm, power = 6246.84W, voltage = 64.5422V
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 250rpm, power = 6390.82W, voltage = 65.2698V
+Kt =  24
+Imax =  187
+
+RL = 1ohms, wr = 300rpm, power = 6471.87W, voltage = 65.6855V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 50rpm, power = 3513.37W, voltage = 59.1593V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 100rpm, power = 6840.51W, voltage = 82.7343V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 150rpm, power = 8295.23W, voltage = 91.0782V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 200rpm, power = 8962.32W, voltage = 94.6807V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 250rpm, power = 9308.81W, voltage = 96.4792V
+Kt =  24
+Imax =  187
+
+RL = 1.5ohms, wr = 300rpm, power = 9508.52W, voltage = 97.5117V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 50rpm, power = 3477.14W, voltage = 67.9155V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 100rpm, power = 7802.04W, voltage = 102.04V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 150rpm, power = 10136.9W, voltage = 116.258V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 200rpm, power = 11322.9W, voltage = 122.883V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 250rpm, power = 11971.2W, voltage = 126.337V
+Kt =  24
+Imax =  187
+
+RL = 2ohms, wr = 300rpm, power = 12355.5W, voltage = 128.351V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 50rpm, power = 3310.84W, voltage = 74.0622V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 100rpm, power = 8296.81W, voltage = 117.656V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 150rpm, power = 11505.5W, voltage = 138.477V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 200rpm, power = 13306.6W, voltage = 148.933V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 250rpm, power = 14346.1W, voltage = 154.629V
+Kt =  24
+Imax =  187
+
+RL = 2.5ohms, wr = 300rpm, power = 14981.9W, voltage = 158.018V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 50rpm, power = 3103.45W, voltage = 78.5254V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 100rpm, power = 8469.47W, voltage = 130.227V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 150rpm, power = 12458.7W, voltage = 157.852V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 200rpm, power = 14917.9W, voltage = 172.74V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 250rpm, power = 16418W, voltage = 181.209V
+Kt =  24
+Imax =  187
+
+RL = 3ohms, wr = 300rpm, power = 17366.6W, voltage = 186.368V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 50rpm, power = 2892.8W, voltage = 81.8705V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 100rpm, power = 8433.29W, voltage = 140.365V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 150rpm, power = 13068.4W, voltage = 174.622V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 200rpm, power = 16181.1W, voltage = 194.314V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 250rpm, power = 18186W, voltage = 206V
+Kt =  24
+Imax =  187
+
+RL = 3.5ohms, wr = 300rpm, power = 19498.4W, voltage = 213.298V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 50rpm, power = 2693.97W, voltage = 84.4486V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 100rpm, power = 8268.8W, voltage = 148.588V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 150rpm, power = 13406.3W, voltage = 189.077V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 200rpm, power = 17131.8W, voltage = 213.742V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 250rpm, power = 19660.7W, voltage = 228.981V
+Kt =  24
+Imax =  187
+
+RL = 4ohms, wr = 300rpm, power = 21374.6W, voltage = 238.743V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 50rpm, power = 2512.06W, voltage = 86.484V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 100rpm, power = 8030.18W, voltage = 155.312V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 150rpm, power = 13536.7W, voltage = 201.52V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 200rpm, power = 17811.7W, voltage = 231.157V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 250rpm, power = 20860.9W, voltage = 250.177V
+Kt =  24
+Imax =  187
+
+RL = 4.5ohms, wr = 300rpm, power = 22999.8W, voltage = 262.676V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 50rpm, power = 2347.88W, voltage = 88.1248V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 100rpm, power = 7752.64W, voltage = 160.859V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 150rpm, power = 13513.2W, voltage = 212.236V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 200rpm, power = 18262.7W, voltage = 246.722V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 250rpm, power = 21810.9W, voltage = 269.65V
+Kt =  24
+Imax =  187
+
+RL = 5ohms, wr = 300rpm, power = 24384.5W, voltage = 285.097V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 50rpm, power = 2200.47W, voltage = 89.4712V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 100rpm, power = 7458.5W, voltage = 165.478V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 150rpm, power = 13378.5W, voltage = 221.482V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 200rpm, power = 18524.7W, voltage = 260.609V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 250rpm, power = 22537.4W, voltage = 287.485V
+Kt =  24
+Imax =  187
+
+RL = 5.5ohms, wr = 300rpm, power = 25543W, voltage = 306.033V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 50rpm, power = 2068.24W, voltage = 90.5932V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 100rpm, power = 7161.61W, voltage = 169.36V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 150rpm, power = 13165.9W, voltage = 229.485V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 200rpm, power = 18633.7W, voltage = 272.992V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 250rpm, power = 23068W, voltage = 303.783V
+Kt =  24
+Imax =  187
+
+RL = 6ohms, wr = 300rpm, power = 26492.7W, voltage = 325.528V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 50rpm, power = 1949.48W, voltage = 91.5409V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 100rpm, power = 6870.28W, voltage = 172.652V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 150rpm, power = 12900.4W, voltage = 236.436V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 200rpm, power = 18620.8W, voltage = 284.036V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 250rpm, power = 23429.4W, voltage = 318.656V
+Kt =  24
+Imax =  187
+
+RL = 6.5ohms, wr = 300rpm, power = 27252.4W, voltage = 343.643V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 50rpm, power = 1842.54W, voltage = 92.3508V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 100rpm, power = 6589.34W, voltage = 175.466V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 150rpm, power = 12601W, voltage = 242.497V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 200rpm, power = 18512.3W, voltage = 293.894V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 250rpm, power = 23646.7W, voltage = 332.217V
+Kt =  24
+Imax =  187
+
+RL = 7ohms, wr = 300rpm, power = 27841.4W, voltage = 360.447V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 50rpm, power = 1745.96W, voltage = 93.0501V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 100rpm, power = 6321.34W, voltage = 177.89V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 150rpm, power = 12281.3W, voltage = 247.804V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 200rpm, power = 18330.2W, voltage = 302.705V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 250rpm, power = 23742.7W, voltage = 344.576V
+Kt =  24
+Imax =  187
+
+RL = 7.5ohms, wr = 300rpm, power = 28278.7W, voltage = 376.017V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 50rpm, power = 1658.43W, voltage = 93.6595V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 100rpm, power = 6067.47W, voltage = 179.995V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 150rpm, power = 11951.5W, voltage = 252.47V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 200rpm, power = 18092.4W, voltage = 310.594V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 250rpm, power = 23737.9W, voltage = 355.84V
+Kt =  24
+Imax =  187
+
+RL = 8ohms, wr = 300rpm, power = 28582.7W, voltage = 390.429V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 50rpm, power = 1578.84W, voltage = 94.1948V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 100rpm, power = 5828.01W, voltage = 181.835V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 150rpm, power = 11618.7W, voltage = 256.591V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 200rpm, power = 17813.5W, voltage = 317.672V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 250rpm, power = 23649.9W, voltage = 366.112V
+Kt =  24
+Imax =  187
+
+RL = 8.5ohms, wr = 300rpm, power = 28770.5W, voltage = 403.764V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 50rpm, power = 1506.22W, voltage = 94.6686V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 100rpm, power = 5602.75W, voltage = 183.453V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 150rpm, power = 11288.1W, voltage = 260.246V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 200rpm, power = 17505.1W, voltage = 324.037V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 250rpm, power = 23494.4W, voltage = 375.486V
+Kt =  24
+Imax =  187
+
+RL = 9ohms, wr = 300rpm, power = 28857.9W, voltage = 416.1V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 50rpm, power = 1439.74W, voltage = 95.0905V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 100rpm, power = 5391.13W, voltage = 184.884V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 150rpm, power = 10963.1W, voltage = 263.5V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 200rpm, power = 17176.3W, voltage = 329.772V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 250rpm, power = 23284.4W, voltage = 384.048V
+Kt =  24
+Imax =  187
+
+RL = 9.5ohms, wr = 300rpm, power = 28859.2W, voltage = 427.511V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 50rpm, power = 1378.69W, voltage = 95.4686V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 100rpm, power = 5192.47W, voltage = 186.158V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 150rpm, power = 10646.1W, voltage = 266.409V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 200rpm, power = 16834.6W, voltage = 334.953V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 250rpm, power = 23031.2W, voltage = 391.876V
+Kt =  24
+Imax =  187
+
+RL = 10ohms, wr = 300rpm, power = 28787.3W, voltage = 438.069V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 50rpm, power = 1322.45W, voltage = 95.8092V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 100rpm, power = 5005.97W, voltage = 187.296V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 150rpm, power = 10338.8W, voltage = 269.019V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 200rpm, power = 16485.5W, voltage = 339.645V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 250rpm, power = 22744.3W, voltage = 399.044V
+Kt =  24
+Imax =  187
+
+RL = 10.5ohms, wr = 300rpm, power = 28653.6W, voltage = 447.842V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 50rpm, power = 1270.51W, voltage = 96.1175V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 100rpm, power = 4830.83W, voltage = 188.318V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 150rpm, power = 10042.1W, voltage = 271.37V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 200rpm, power = 16133.5W, voltage = 343.904V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 250rpm, power = 22431.5W, voltage = 405.616V
+Kt =  24
+Imax =  187
+
+RL = 11ohms, wr = 300rpm, power = 28468.1W, voltage = 456.894V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 50rpm, power = 1222.39W, voltage = 96.3978V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 100rpm, power = 4666.26W, voltage = 189.241V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 150rpm, power = 9756.5W, voltage = 273.495V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 200rpm, power = 15782.1W, voltage = 347.78V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 250rpm, power = 22099.4W, voltage = 411.65V
+Kt =  24
+Imax =  187
+
+RL = 11.5ohms, wr = 300rpm, power = 28239.8W, voltage = 465.284V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 50rpm, power = 1177.71W, voltage = 96.6538V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 100rpm, power = 4511.48W, voltage = 190.076V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 150rpm, power = 9482.15W, voltage = 275.421V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 200rpm, power = 15433.7W, voltage = 351.315V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 250rpm, power = 21753.4W, voltage = 417.199V
+Kt =  24
+Imax =  187
+
+RL = 12ohms, wr = 300rpm, power = 27976.2W, voltage = 473.066V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 50rpm, power = 1136.11W, voltage = 96.8883V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 100rpm, power = 4365.78W, voltage = 190.836V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 150rpm, power = 9219.04W, voltage = 277.173V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 200rpm, power = 15090.4W, voltage = 354.547V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 250rpm, power = 21398W, voltage = 422.309V
+Kt =  24
+Imax =  187
+
+RL = 12.5ohms, wr = 300rpm, power = 27683.9W, voltage = 480.291V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 50rpm, power = 1097.3W, voltage = 97.104V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 100rpm, power = 4228.49W, voltage = 191.529V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 150rpm, power = 8966.99W, voltage = 278.772V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 200rpm, power = 14753.6W, voltage = 357.508V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 250rpm, power = 21036.9W, voltage = 427.022V
+Kt =  24
+Imax =  187
+
+RL = 13ohms, wr = 300rpm, power = 27368.7W, voltage = 487.005V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 50rpm, power = 1061W, voltage = 97.3031V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 100rpm, power = 4098.97W, voltage = 192.164V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 150rpm, power = 8725.71W, voltage = 280.234V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 200rpm, power = 14424.4W, voltage = 360.227V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 250rpm, power = 20673W, voltage = 431.376V
+Kt =  24
+Imax =  187
+
+RL = 13.5ohms, wr = 300rpm, power = 27035.5W, voltage = 493.25V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 50rpm, power = 1027W, voltage = 97.4872V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 100rpm, power = 3976.65W, voltage = 192.747V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 150rpm, power = 8494.81W, voltage = 281.576V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 200rpm, power = 14103.4W, voltage = 362.73V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 250rpm, power = 20308.9W, voltage = 435.405V
+Kt =  24
+Imax =  187
+
+RL = 14ohms, wr = 300rpm, power = 26688.4W, voltage = 499.065V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 50rpm, power = 995.074W, voltage = 97.6582V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 100rpm, power = 3860.99W, voltage = 193.284V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 150rpm, power = 8273.93W, voltage = 282.81V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 200rpm, power = 13791.1W, voltage = 365.038V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 250rpm, power = 19946.5W, voltage = 439.138V
+Kt =  24
+Imax =  187
+
+RL = 14.5ohms, wr = 300rpm, power = 26331.1W, voltage = 504.485V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 50rpm, power = 965.048W, voltage = 97.8172V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 100rpm, power = 3751.51W, voltage = 193.78V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 150rpm, power = 8062.61W, voltage = 283.947V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 200rpm, power = 13487.7W, voltage = 367.171V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 250rpm, power = 19587.2W, voltage = 442.603V
+Kt =  24
+Imax =  187
+
+RL = 15ohms, wr = 300rpm, power = 25966.4W, voltage = 509.542V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 50rpm, power = 936.759W, voltage = 97.9655V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 100rpm, power = 3647.77W, voltage = 194.239V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 150rpm, power = 7860.43W, voltage = 284.999V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 200rpm, power = 13193.6W, voltage = 369.146V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 250rpm, power = 19232.3W, voltage = 445.824V
+Kt =  24
+Imax =  187
+
+RL = 15.5ohms, wr = 300rpm, power = 25597.1W, voltage = 514.266V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 50rpm, power = 910.062W, voltage = 98.1041V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 100rpm, power = 3549.34W, voltage = 194.665V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 150rpm, power = 7666.93W, voltage = 285.973V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 200rpm, power = 12908.5W, voltage = 370.978V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 250rpm, power = 18882.8W, voltage = 448.822V
+Kt =  24
+Imax =  187
+
+RL = 16ohms, wr = 300rpm, power = 25225.3W, voltage = 518.684V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 50rpm, power = 884.827W, voltage = 98.234V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 100rpm, power = 3455.86W, voltage = 195.062V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 150rpm, power = 7481.68W, voltage = 286.877V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 200rpm, power = 12632.6W, voltage = 372.68V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 250rpm, power = 18539.4W, voltage = 451.616V
+Kt =  24
+Imax =  187
+
+RL = 16.5ohms, wr = 300rpm, power = 24852.7W, voltage = 522.819V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 50rpm, power = 860.94W, voltage = 98.3559V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 100rpm, power = 3366.97W, voltage = 195.431V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 150rpm, power = 7304.26W, voltage = 287.718V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 200rpm, power = 12365.7W, voltage = 374.265V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 250rpm, power = 18202.8W, voltage = 454.225V
+Kt =  24
+Imax =  187
+
+RL = 17ohms, wr = 300rpm, power = 24480.9W, voltage = 526.694V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 50rpm, power = 838.297W, voltage = 98.4705V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 100rpm, power = 3282.38W, voltage = 195.777V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 150rpm, power = 7134.28W, voltage = 288.502V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 200rpm, power = 12107.5W, voltage = 375.742V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 250rpm, power = 17873.2W, voltage = 456.664V
+Kt =  24
+Imax =  187
+
+RL = 17.5ohms, wr = 300rpm, power = 24111.1W, voltage = 530.33V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 50rpm, power = 816.803W, voltage = 98.5785V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 100rpm, power = 3201.78W, voltage = 196.1V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 150rpm, power = 6971.33W, voltage = 289.234V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 200rpm, power = 11857.9W, voltage = 377.122V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 250rpm, power = 17551W, voltage = 458.946V
+Kt =  24
+Imax =  187
+
+RL = 18ohms, wr = 300rpm, power = 23744.4W, voltage = 533.744V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 50rpm, power = 796.375W, voltage = 98.6804V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 100rpm, power = 3124.92W, voltage = 196.403V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 150rpm, power = 6815.05W, voltage = 289.918V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 200rpm, power = 11616.6W, voltage = 378.413V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 250rpm, power = 17236.3W, voltage = 461.086V
+Kt =  24
+Imax =  187
+
+RL = 18.5ohms, wr = 300rpm, power = 23381.6W, voltage = 536.954V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 50rpm, power = 776.935W, voltage = 98.7767V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 100rpm, power = 3051.54W, voltage = 196.688V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 150rpm, power = 6665.08W, voltage = 290.559V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 200rpm, power = 11383.4W, voltage = 379.623V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 250rpm, power = 16929.4W, voltage = 463.094V
+Kt =  24
+Imax =  187
+
+RL = 19ohms, wr = 300rpm, power = 23023.5W, voltage = 539.974V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 50rpm, power = 758.414W, voltage = 98.8679V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 100rpm, power = 2981.43W, voltage = 196.956V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 150rpm, power = 6521.1W, voltage = 291.161V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 200rpm, power = 11158W, voltage = 380.758V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 250rpm, power = 16630.1W, voltage = 464.98V
+Kt =  24
+Imax =  187
+
+RL = 19.5ohms, wr = 300rpm, power = 22670.5W, voltage = 542.82V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 50rpm, power = 740.75W, voltage = 98.9543V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 100rpm, power = 2914.38W, voltage = 197.209V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 150rpm, power = 6382.79W, voltage = 291.726V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 200rpm, power = 10940.1W, voltage = 381.824V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 250rpm, power = 16338.4W, voltage = 466.755V
+Kt =  24
+Imax =  187
+
+RL = 20ohms, wr = 300rpm, power = 22323.1W, voltage = 545.503V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 50rpm, power = 723.884W, voltage = 99.0363V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 100rpm, power = 2850.2W, voltage = 197.447V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 150rpm, power = 6249.85W, voltage = 292.259V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 200rpm, power = 10729.4W, voltage = 382.827V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 250rpm, power = 16054.4W, voltage = 468.426V
+Kt =  24
+Imax =  187
+
+RL = 20.5ohms, wr = 300rpm, power = 21981.6W, voltage = 548.035V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 50rpm, power = 707.764W, voltage = 99.1143V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 100rpm, power = 2788.71W, voltage = 197.673V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 150rpm, power = 6122W, voltage = 292.76V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 200rpm, power = 10525.8W, voltage = 383.772V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 250rpm, power = 15777.9W, voltage = 470.002V
+Kt =  24
+Imax =  187
+
+RL = 21ohms, wr = 300rpm, power = 21646.3W, voltage = 550.427V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 50rpm, power = 692.342W, voltage = 99.1885V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 100rpm, power = 2729.76W, voltage = 197.886V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 150rpm, power = 5998.98W, voltage = 293.234V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 200rpm, power = 10328.8W, voltage = 384.663V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 250rpm, power = 15508.8W, voltage = 471.49V
+Kt =  24
+Imax =  187
+
+RL = 21.5ohms, wr = 300rpm, power = 21317.5W, voltage = 552.69V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 50rpm, power = 677.573W, voltage = 99.2592V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 100rpm, power = 2673.2W, voltage = 198.088V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 150rpm, power = 5880.54W, voltage = 293.681V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 200rpm, power = 10138.2W, voltage = 385.504V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 250rpm, power = 15247W, voltage = 472.895V
+Kt =  24
+Imax =  187
+
+RL = 22ohms, wr = 300rpm, power = 20995.1W, voltage = 554.831V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 50rpm, power = 663.418W, voltage = 99.3266V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 100rpm, power = 2618.88W, voltage = 198.28V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 150rpm, power = 5766.45W, voltage = 294.105V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 200rpm, power = 9953.86W, voltage = 386.3V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 250rpm, power = 14992.2W, voltage = 474.225V
+Kt =  24
+Imax =  187
+
+RL = 22.5ohms, wr = 300rpm, power = 20679.3W, voltage = 556.859V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 50rpm, power = 649.839W, voltage = 99.391V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 100rpm, power = 2566.67W, voltage = 198.463V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 150rpm, power = 5656.48W, voltage = 294.506V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 200rpm, power = 9775.41W, voltage = 387.053V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 250rpm, power = 14744.4W, voltage = 475.484V
+Kt =  24
+Imax =  187
+
+RL = 23ohms, wr = 300rpm, power = 20370.2W, voltage = 558.782V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 50rpm, power = 636.802W, voltage = 99.4526V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 100rpm, power = 2516.47W, voltage = 198.636V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 150rpm, power = 5550.44W, voltage = 294.886V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 200rpm, power = 9602.65W, voltage = 387.766V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 250rpm, power = 14503.3W, voltage = 476.677V
+Kt =  24
+Imax =  187
+
+RL = 23.5ohms, wr = 300rpm, power = 20067.7W, voltage = 560.608V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 50rpm, power = 624.275W, voltage = 99.5115V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 100rpm, power = 2468.16W, voltage = 198.801V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 150rpm, power = 5448.12W, voltage = 295.247V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 200rpm, power = 9435.33W, voltage = 388.443V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 250rpm, power = 14268.8W, voltage = 477.808V
+Kt =  24
+Imax =  187
+
+RL = 24ohms, wr = 300rpm, power = 19772.3W, voltage = 562.353V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 50rpm, power = 612.229W, voltage = 99.5679V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 100rpm, power = 2421.63W, voltage = 198.959V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 150rpm, power = 5349.35W, voltage = 295.591V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 200rpm, power = 9273.24W, voltage = 389.086V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 250rpm, power = 14040.6W, voltage = 478.883V
+Kt =  24
+Imax =  187
+
+RL = 24.5ohms, wr = 300rpm, power = 19483.5W, voltage = 564.01V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 50rpm, power = 600.637W, voltage = 99.6219V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 100rpm, power = 2376.79W, voltage = 199.109V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 150rpm, power = 5253.95W, voltage = 295.917V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 200rpm, power = 9116.15W, voltage = 389.696V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 250rpm, power = 13818.7W, voltage = 479.904V
+Kt =  24
+Imax =  187
+
+RL = 25ohms, wr = 300rpm, power = 19201.2W, voltage = 565.585V
