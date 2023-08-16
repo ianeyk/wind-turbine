@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>power_available</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>generator_voltage</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14597,8 +14597,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Internal-Resistance-Calculation-for-Small-Vertical-Axis-Wind-Turbine">Internal Resistance Calculation for Small Vertical Axis Wind Turbine<a class="anchor-link" href="#Internal-Resistance-Calculation-for-Small-Vertical-Axis-Wind-Turbine">&#182;</a></h1><p><strong>Author:</strong> Ian Eykamp, <strong>Date:</strong> 6/16/2023</p>
-<h2 id="Purpose">Purpose<a class="anchor-link" href="#Purpose">&#182;</a></h2><p>I powered the wind turbine using the wind tunnel in the 4th floor Rocketry lab. I repeated calculations used to find the internal resistance of the generator.</p>
+<h1 id="Small-Turbine-Generator-Voltage-(Wind-Powered)">Small Turbine Generator Voltage (Wind Powered)<a class="anchor-link" href="#Small-Turbine-Generator-Voltage-(Wind-Powered)">&#182;</a></h1><p><strong>Author:</strong> Ian Eykamp, <strong>Date:</strong> 6/16/2023</p>
+<h2 id="Purpose">Purpose<a class="anchor-link" href="#Purpose">&#182;</a></h2><p>I powered the wind turbine using the wind tunnel in the 4th floor Rocketry lab. I measured the frequency and magnitude of the voltage generated at different wind speeds. I repeated calculations used to find the internal resistance of the generator.</p>
 <p>The wind tunnel has a power setting from 0-80 that corresponds to how fast (in Hz) the fan inside the wind tunnel is spinning. So it doesn't really correlate with an actual wind speed felt by the turbine. There is a table that correlates the speed setting to wind speed, but this means wind speed inside the tunnel, which is different and much lower at the outlet, especially as it diffuses into the open space. The first set of measurements is taken at a setting of 20 out of 80; for the later measurements, I set it to either 30 or 39 out of 80, because that was as fast as I felt comfortable letting the wind turbine spin safely.</p>
 <h3 id="Import-libraries">Import libraries<a class="anchor-link" href="#Import-libraries">&#182;</a></h3><p><code>plecs_helper.py</code> is a file I created which defines some helper functions for nice plots and getting data off the oscilloscope and out of PLECS.</p>
 

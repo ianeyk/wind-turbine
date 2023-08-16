@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>battery_parameters</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>battery_resistance</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14597,7 +14597,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Buck-Converter-Design">Buck Converter Design<a class="anchor-link" href="#Buck-Converter-Design">&#182;</a></h1><p><strong>Author:</strong> Ian Eykamp, <strong>Date:</strong> June 20, 2023</p>
+<h1 id="Battery-Internal-Resistance">Battery Internal Resistance<a class="anchor-link" href="#Battery-Internal-Resistance">&#182;</a></h1><p><strong>Author:</strong> Ian Eykamp, <strong>Date:</strong> June 20, 2023</p>
 <h3 id="Goals">Goals<a class="anchor-link" href="#Goals">&#182;</a></h3><p>To calculate the internal resistance of the 12V marine batteries in our posession in the lab. The link to purchase them is <a href="https://www.westmarine.com/west-marine-group-24-dual-purpose-agm-battery-79-amp-hours-15020233.html">here</a>, and I have not found the datasheet for the batteries yet, with a curve of voltage vs. state of charge (SOC).</p>
 <h3 id="Methodology">Methodology<a class="anchor-link" href="#Methodology">&#182;</a></h3><p>A battery's internal resistance manifests as a small resistance in series with the load. When we measure the battery terminals without anything between them (unloaded case), we get the true voltage of the battery. When we add a load resistor between the terminals, we get a voltage divider consisting of the load resistor and the internal resistance. The voltage across the load resistor $R_2$ is given by $V_{loaded} = V_{unloaded} \cdot \frac{R_2}{(R_{internal} + R_2)}$.</p>
 <p>Thus, the internal resistance can be calculated by $(R_{internal} + R_2) = \frac{V_{unloaded}}{V_{loaded}} \cdot R_2$,</p>
